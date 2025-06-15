@@ -1,20 +1,48 @@
 #!/bin/bash
-# Sync script for Grimheim rules vault to GitHub
+set -e  # sofort abbrechen, falls ein Befehl fehlschlägt
+cd "$(dirname "$0")"   # in Skriptordner wechseln
 
-# Change to the repository directory (if not already in it)
-# cd /path/to/grimheim-rules
+# Prüfen, ob .git existiert
+if [ ! -d .git ]; then
+  echo "❌  Dieses Verzeichnis ist kein Git-Repository ('.git' fehlt)."
+  echo "   → Erst 'git init' und 'git remote add origin …' ausführen."
+  exit 1
+fi
 
-# Pull latest changes from the remote to ensure up to date
-git pull origin main
+# Prüfen, ob 'origin' existiert
+if ! git remote get-url origin &>/dev/null ; then
+  echo "❌  Remote 'origin' ist nicht konfiguriert."
+  echo "   → 'git remote add origin <URL>' einmalig anlegen."
+  exit 1
+fi
 
-# Stage all changes in the vault (new, modified, deleted files)
+git pull --rebase origin main
 git add -A
-
-# Commit the changes with a standard message or timestamp
-commit_msg="Update Grimheim rules documentation $(date +'%Y-%m-%d')"
-git commit -m "$commit_msg"
-
-# Push the commit to the remote repository on the main branch
+git commit -m "Sync $(date +'%Y-%m-%d %H:%M')" || true  # falls nix zu committen
 git push origin main
 
-echo "Sync complete: pushed latest changes to GitHub."
+echo "✅  Sync abgeschlossen."
+#!/bin/bash
+set -e
+cd "$(dirname "$0")"
+
+# Sicherstellen, dass wir in einem Git-Repo mit Remote sind …
+if [ ! -d .git ]; then
+  echo "❌  Kein Git-Repo – erst 'git init' & 'git remote add origin …'"; exit 1
+fi
+if ! git remote get-url origin &>/dev/null ; then
+  echo "❌  Remote 'origin' fehlt – einmalig anlegen."; exit 1
+fi
+
+# 1) Alles einchecken (nur falls Änderungen vorhanden)
+if ! git diff --quiet || ! git diff --cached --quiet ; then
+  git add -A
+  git commit -m "Auto-sync $(date +'%Y-%m-%d %H:%M')"
+fi
+
+# 2) Jetzt Upstream holen – lokale Commits werden sauber rebaset
+git pull --rebase origin main
+
+# 3) Pushen
+git push origin main
+echo "✅  Sync abgeschlossen."
