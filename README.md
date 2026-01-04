@@ -1,6 +1,6 @@
 # Grimheim Skirmish Game
 
-Grimheim is a fast-paced, miniature-agnostic skirmish game set in a classic grimdark fantasy world. It features modern rules that keep both players engaged with minimal downtime. This repository contains the open-source rules for Grimheim, organized for easy reading and use in both GitHub and Obsidian.
+Grimheim is a fast-paced, miniature-agnostic skirmish game set in a classic grimdark fantasy world. It features modern rules that keep both players engaged with minimal downtime. This repository contains the open-source rules for Grimheim, organized for easy reading.
 
 **Game Highlights:**
 
