@@ -681,7 +681,7 @@ In Ranged Combat, this counts as a normal Defense Die."</p></td>
 | Resilient | Unaffected by Fearful and Critical Injuries. | 7 |
 | Robust | Unaffected by Critical Injuries. | 3 |
 | Scout | This model is deployed after all other models have been placed. Immediately after deployment, it may make a free move of up to 2× its MOV. | 6 |
-| Shield | Grants +1 Block Die in Close Combat and +1 Defense Die in Ranged Combat. This Die succeeds on a 3+ and is a critical success on a 6. | 7 |
+| Shield | Grants +1 Block Die in Close Combat. This Die succeeds on a 3+ and is a critical success on a 6. Model counts as in Cover. | 7 |
 | Silent | May perform HIDE and SHOOT in the same activation. | 4 |
 | Slow | Cannot RUN or Jump. | -2 |
 | Sniper | May target enemies engaged in Melee without applying the Shoot into Combat disadvantage of potentially hitting a friendly model. May also use the TAKE AIM action. | 8 |
