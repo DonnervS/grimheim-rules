@@ -20,7 +20,6 @@ Each model must belong to one of the following factions:
 - Undead
 - Primordial
 - Tribes
-- Ratlings
 - Mercenaries
 
 If all models in your warband belong to the same faction, you may use that faction’s unique Fate Modifiers, Arcane Lores or Divine Lores.
@@ -48,7 +47,7 @@ There are two ways to assemble a warband:
 1.  Use Existing Models / Iconic Warbands  
     You may choose pre-built models or complete Iconic Warbands as listed in the Faction chapters. These include full stats, weapons, and traits.
 2.  Create Custom Characters  
-    Alternatively, you may build your own unique models using the Custom Character Builder on page 78.
+    Alternatively, you may build your own unique models using the Custom Character Builder on page 80.
 
 You may include a Leader in your warband, but it is not required.
 
