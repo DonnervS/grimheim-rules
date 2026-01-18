@@ -614,6 +614,8 @@ Up to two models can select the Hero tier.
 
 Up to 5 models can be Veterans.
 
+Models with the Henchmen or Swarm tier cannot gain any additional traits beyond those provided by their Body Type and Armor.
+
 ### Tier List
 
 | Max | Name     | AP  | WND | Traits           | Points |
@@ -623,6 +625,8 @@ Up to 5 models can be Veterans.
 | 5   | Veteran  |     | +2  | Veteran          | 15     |
 | 2   | Arcanist |     |     | Arcane           | 25     |
 | 1   | Archmage |     |     | Arcane, Archmage | 34     |
+| -   | Henchmen |     |     | Henchmen         | 3      |
+| -   | Swarm    |     |     | Swarm            | 6      |
 | -   | Standard |     |     |                  | 0      |
 
 ## Armor
@@ -1038,7 +1042,7 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 <tr>
 <td><p>11</p></td>
 <td><p>Aelia</p></td>
-<td><p>Aurelius</p></td>
+<td><p>Eduard</p></td>
 <td><p>von Falkenwacht</p></td>
 </tr>
 <tr>
@@ -1128,7 +1132,7 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 <tr>
 <td><p>34</p></td>
 <td><p>Sibylla</p></td>
-<td><p>Cassian</p></td>
+<td><p>Wilhelm</p></td>
 <td><p>von Steinmark</p></td>
 </tr>
 <tr>
@@ -1158,7 +1162,7 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 <tr>
 <td><p>43</p></td>
 <td><p>Rosalia</p></td>
-<td><p>Niklas</p></td>
+<td><p>Heribert</p></td>
 <td><p>von Ehrental</p></td>
 </tr>
 <tr>
@@ -1317,15 +1321,15 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 </tr>
 <tr>
 <td><p>23</p></td>
-<td><p>Lina</p></td>
+<td><p>Janna</p></td>
 <td><p>Lenz</p></td>
 <td><p>the Hollow</p></td>
 </tr>
 <tr>
 <td><p>24</p></td>
-<td><p>Janna</p></td>
+<td><p>Lisa</p></td>
 <td><p>Tammo</p></td>
-<td><p>the Scourged</p></td>
+<td><p>the Restless</p></td>
 </tr>
 <tr>
 <td><p>25</p></td>
@@ -1355,7 +1359,7 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 <td><p>33</p></td>
 <td><p>Anka</p></td>
 <td><p>Malte</p></td>
-<td><p>the Dungborn</p></td>
+<td><p>the Scourged</p></td>
 </tr>
 <tr>
 <td><p>34</p></td>
@@ -1419,7 +1423,7 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 </tr>
 <tr>
 <td><p>52</p></td>
-<td><p>Meta</p></td>
+<td><p>Maria</p></td>
 <td><p>Heinrich</p></td>
 <td><p>the Wounded</p></td>
 </tr>
@@ -1475,7 +1479,7 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 <td><p>65</p></td>
 <td><p>Gertrud</p></td>
 <td><p>Manfred</p></td>
-<td><p>the Pig-Boy</p></td>
+<td><p>the Hogherd</p></td>
 </tr>
 <tr>
 <td><p>66</p></td>
@@ -1557,7 +1561,7 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 <td><p>24</p></td>
 <td><p>Isauria</p></td>
 <td><p>Valentin</p></td>
-<td><p>Solwatch</p></td>
+<td><p>the Apostle</p></td>
 </tr>
 <tr>
 <td><p>25</p></td>
@@ -1635,7 +1639,7 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 <td><p>45</p></td>
 <td><p>Cassiara</p></td>
 <td><p>Severian</p></td>
-<td><p>Firebrand</p></td>
+<td><p>Solwatch</p></td>
 </tr>
 <tr>
 <td><p>46</p></td>
@@ -1669,7 +1673,7 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 </tr>
 <tr>
 <td><p>55</p></td>
-<td><p>Liora</p></td>
+<td><p>Lunae</p></td>
 <td><p>Tiberian</p></td>
 <td><p>Sunlance</p></td>
 </tr>
