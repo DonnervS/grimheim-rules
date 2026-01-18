@@ -13,7 +13,7 @@ Before starting a game, agree on a total point limit with your opponent, see Sug
 
 ### Missions
 
-There are several different missions available, each offering unique objectives and scoring conditions see Missions on page 38. The standard mission Encounter serves as the primary example described in this rulebook. If players decide to use a different mission, other rules may apply.
+There are several different missions available, each offering unique objectives and scoring conditions see Missions on page 40. The standard mission Encounter serves as the primary example described in this rulebook. If players decide to use a different mission, other rules may apply.
 
 ### Game Area
 
@@ -205,7 +205,7 @@ Jumping down from a height (within 3“) grants +1 Critical Hit in the following
 | Shoot - 1 AP |
 |----|
 | Make a Ranged Attack with one of the model‘s ranged weapons. |
-| Cannot be used while in Melee Range or in the same activation as Run or HIDE. |
+| Cannot be used while in Melee Range or in the same activation as MOVE, Run or HIDE. |
 
 <table>
 <thead>
@@ -256,8 +256,9 @@ Must not end within Melee Range.</p></td>
 </thead>
 <tbody>
 <tr>
-<td><p>Interact with an Objective or Entryway. Interact with a Loot Site to search for equipment or resources once. Roll 2D6 on the Equipment Table to determine the result.</p>
-<p>Must be within 1“ of the object.</p></td>
+<td><p>Interact with an Objective, Weapon or Entryway.</p>
+<p>Must be within 1“ of the object.</p>
+<p>Can be used multiple times in the same activation.</p></td>
 </tr>
 <tr>
 <td><p>Cannot be used while in Melee Range unless otherwise stated.</p></td>
@@ -268,9 +269,10 @@ Must not end within Melee Range.</p></td>
 ### Interact special Rules
 
 Reloading Black Powder Weapons  
-After firing a Black Powder weapon (whether the shot succeeds, fails, or misfires), the weapon must be reloaded:  
-  
-Use the INTERACT action while not in Melee Range  
+After firing a Black Powder weapon (whether the shot succeeds, fails, or misfires), the weapon must be reloaded:
+
+Use the INTERACT action while not in Melee Range
+
 The weapon cannot be fired again until reloaded  
 Some weapons or equipment may modify reload requirements
 
@@ -278,7 +280,7 @@ Some weapons or equipment may modify reload requirements
 
 When a model is in base contact with a Loot Site, it may spend one action to Interact with it in order to loot the object.
 
-- Each model may only loot each Loot Site once per game. Roll on the Equipment Table on page \<?\> to determine which item is found.
+- A Loot Site can be looted once per game. Roll on the Equipment on page 64 to determine which item is found.
 - In the standard Encounter mission, all Objectives count as Loot Sites. Other missions may specify additional or alternative Loot Sites in their mission briefing.
 
 <!-- -->
@@ -313,25 +315,6 @@ This Block Die succeeds on the weapon's HTV value, critical on 6.</p></td>
 <table>
 <thead>
 <tr>
-<th scope="col"><p>Cast a spell - 1 AP</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Roll 2D6 to generate Arcane Energy. Cast a spell from your Warband’s Arcane Lore with equal or lower cost.</p>
-<p>Each 1 rolled causes 2 Fatal Damage.</p>
-<p>Magic Scrolls may be cast without rolling for Arcane Energy.</p></td>
-</tr>
-</tbody>
-</table>
-
-| Invocation - 1 AP |
-|----|
-| Roll 2D6 to generate Divine Energy. Invoke a power from your Warband’s Divine Lore with equal or lower cost. |
-
-<table>
-<thead>
-<tr>
 <th scope="col"><p>Overexertion - 1 AP</p></th>
 </tr>
 </thead>
@@ -339,27 +322,6 @@ This Block Die succeeds on the weapon's HTV value, critical on 6.</p></td>
 <tr>
 <td><p>Gain +2 AP this turn. The model may use Shoot or Fight actions twice.<br />
 Next turn, the model can only use Hide, Recover or PASS.</p></td>
-</tr>
-</tbody>
-</table>
-
-| Command - 1 AP |
-|----|
-| Choose one friendly model within 12“. It gains +1 AP until the end of its next activation. |
-
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Heal - 1 AP</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Select a friendly model within 1“. That model regains 2D3 lost Wounds and the Poisoned status is removed.</p>
-<p>If this healing fully restores the model’s WND to its original value, any existing Injury effects are also removed.</p></td>
-</tr>
-<tr>
-<td><p>Cannot be used while within Melee Range of an enemy model.</p></td>
 </tr>
 </tbody>
 </table>
@@ -382,9 +344,59 @@ Next turn, the model can only use Hide, Recover or PASS.</p></td>
 </tbody>
 </table>
 
+<table>
+<thead>
+<tr>
+<th scope="col"><p>Heal - 1 AP</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Select a friendly model within 1“. That model regains 2D3 lost Wounds and the Poisoned status is removed.</p>
+<p>If this healing fully restores the model’s WND to its original value, any existing Injury effects are also removed.</p></td>
+</tr>
+<tr>
+<td><p>Cannot be used while within Melee Range of an enemy model.</p></td>
+</tr>
+</tbody>
+</table>
+
 | Take Aim - 1 AP |
 |----|
 | The HTV for the next Ranged Attack will be improved by 1. |
+| Cannot be used while in Melee Range or in the same activation as Run or HIDE. |
+
+<table>
+<thead>
+<tr>
+<th scope="col"><p>Cast a spell - 1 AP</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Roll 2D6 to generate Arcane Energy. Cast a spell from your Warband’s Arcane Lore with equal or lower cost.</p>
+<p>Each 1 rolled causes 2 Fatal Damage.</p>
+<p>Magic Scrolls may be cast without rolling for Arcane Energy.</p></td>
+</tr>
+</tbody>
+</table>
+
+| Invocation - 1 AP |
+|----|
+| Roll 2D6 to generate Divine Energy. Invoke a power from your Warband’s Divine Lore with equal or lower cost. |
+
+| Command - 1 AP |
+|----|
+| Choose one friendly model within 12“. It gains +1 AP until the end of its next activation. |
+
+| Raise Shield - 1 AP |
+|----|
+| Until the start of the model's next activation, it counts as being in Cover against Ranged Attacks. |
+| Cannot be used while within Melee Range of an enemy model. |
+
+| QUICK SHOT - 1 AP |
+|----|
+| Make a Ranged Attack with HTV worsened by 1 (minimum 6+) |
 | Cannot be used while in Melee Range or in the same activation as Run or HIDE. |
 
 ## Reactions
@@ -397,7 +409,7 @@ Reactions count as an Action.
 
 1.  The enemy model declares an action.
 2.  Before any dice are rolled, any friendly model that is on Overwatch and meets a trigger below may declare one Reaction.
-3.  Pay 1 AP, resolve the Reaction immediately, then finish resolving the enemy action.
+3.  Resolve the Reaction immediately, then finish resolving the enemy action.
 
 ##### Reaction Rules
 
@@ -412,7 +424,50 @@ Reactions count as an Action.
 
 - Reactions introduce snap-decisions and positional play - keep an eye on your remaining AP and your opponent’s next move!
 
-![](media/image/1.png)
+| Retreat |
+|----|
+| Trigger: A CHARGE declared against the reacting model. |
+| This model immediately moves D3+1" directly away from the charging enemy model, following normal movement rules. It must end outside every enemy’s melee range and may not pass through enemy models. If the final distance exceeds the charging model's remaining movement, this model is no longer in melee range and the CHARGE fails. The charging model ends its movement at its maximum range toward the target. |
+
+| Dodge |
+|----|
+| Trigger: A SHOOT or a CAST A SPELL action that targets the reacting model. |
+| The reacting model gains +1 DEF die against that single attack (apply before Fate or other modifiers). |
+
+<table>
+<thead>
+<tr>
+<th scope="col"><p>Intercept</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Trigger: An enemy model moves within 2“ of the reacting model at any point during a MOVE, RUN, CHARGE, or FALL BACK action.</p></td>
+</tr>
+<tr>
+<td><p>The reacting model makes 1 attack with one of its weapons with its ATK characteristic worsened by 1.</p>
+<p>The attack is executed as a ranged attack (the defender cannot declare its own attack and only has a defense Roll). Resolve this attack immediately, then the enemy continues its move if possible.</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th scope="col"><p>Reaction Shot</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>Trigger: An enemy model comes within 8“ of the reacting model at any point during a MOVE, RUN, CHARGE, or FALL BACK action.</p></td>
+</tr>
+<tr>
+<td><p>Make a Ranged Attack against the triggering enemy model with the following modifiers:</p>
+<p>- Reduce ATK by 1 (minimum 1)</p>
+<p>- Worsen HTV by 1 (minimum 6+)</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Sight & Targeting
 
@@ -764,10 +819,6 @@ Grants +1 Block Die. Block succeeds on 3+, critical on 6.
 
 If you retain at least one critical success, you may upgrade one normal success to a critical success.
 
-##### Two-handed:
-
-During the Resolve Dice step, your opponent always resolves the first successful die against this model.
-
 ##### First Strike:
 
 During the Resolve Dice step, this model always resolves the first successful die.
@@ -777,7 +828,7 @@ Player 1 uses the Block Die to block the successful 5 of his enemy.
 Player 2 uses his critical success (6) to block the critical hit of Player 1.  
 Player 1 uses his successful Attack Die (4) to Strike and deal damage.
 
-![](media/image/2.png)
+![](media/image/1.png)
 
 ## Ranged Combat
 
@@ -789,7 +840,9 @@ The Attacker chooses one of the model’s ranged weapon profiles (Type range).
 
 ### 2. Acquire Target
 
-The Attacker selects a target in the model’s Line of Sight and within the weapon’s maximum range. That model becomes the Defender.
+- The Attacker selects a target in the model’s Line of Sight and within the weapon’s maximum range.
+- The target needs to be at least 2" away.
+- The target becomes the Defender.
 
 ### 3. Roll Attack Dice
 
@@ -806,8 +859,6 @@ The Attacker selects a target in the model’s Line of Sight and within the weap
 - A 6 is a critical success and may trigger additional rules.
 - A roll of 1 is an automatic fail and may trigger additional rules.
 - Dice that are not successful are removed.
-
-If the Defender is in Cover, they may set aside one die as an automatic normal success without rolling it
 
 ### 5. Resolve Defense Dice
 
@@ -845,11 +896,7 @@ These rerolled dice are now resolved against the friendly model instead.
 
 If a model is positioned on Elevated Terrain, it may declare the Take Aim action before shooting. See Special Actions on page 24 for details.
 
-##### Shield
-
-Grants +1 Defense Die. Succeeds on 4+, critical on 6.
-
-##### Armor Piercing / Shatter
+##### Armor Piercing / Armor Shatter
 
 The Defender’s SAV value is worsened by 1 / 2  
 (to a minimum of 6+).
@@ -858,19 +905,21 @@ The Defender’s SAV value is worsened by 1 / 2
 
 If you retain at least one critical success, you may upgrade one normal success to a critical success.
 
+### Effective Range
+
+Ranged weapons are less accurate at extreme distances.
+
+When making a Ranged Attack against a target more than 8" away, the attacker's HTV is worsened by 1.
+
 ### Misfire Table
 
 When a weapon with the Black Powder or Warp Tech trait requires a Misfire check, roll 1D6 and consult the table below:
 
-D6Result
-
-1Flashback — Burning powder ignites the wielder. The wielder suffers D3 Fatal Wounds and gains the Burning status effect.
-
-2-3Jammed — The mechanism is fouled. Requires two INTERACT actions to clear the blockage and reload.
-
-4-6 Minor Spark — No effect but the weapon is undamaged. May reload normally with one INTERACT action.
-
-D6Result1Flashback: D3 Fatal Wounds, Burning2-3Jammed: 2× INTERACT to reload4-6Fizzle: Shot fails, reload normally
+| D6 | Name | Description |
+|----|----|----|
+| 1 | Flashback | Burning powder ignites the wielder. The wielder suffers D3 Fatal Wounds and gains the Burning status effect. |
+| 2-3 | Jammed | The mechanism is fouled. Requires two INTERACT actions to clear the blockage and reload. |
+| 4-6 | Minor Spark | The shot fails. May reload normally with one INTERACT action. |
 
 ## Wounds
 
@@ -891,7 +940,7 @@ A model is Defeated when its WND is reduced to 0 or less. Remove it from the gam
 
 ### Critical Injuries
 
-Whenever a model suffers damage from a critical hit (ranged or close combat), roll once on the Critical Injuries Table. Apply the result at the end of the turn in which the critical damage was inflicted.
+Whenever a model suffers damage from a critical hit in close combat, roll once on the Critical Injuries Table. Apply the result at the end of the turn in which the critical damage was inflicted.
 
 - Each injury effect lasts for the remainder of the game.
 - A model can only suffer each type of critical injury once per game.
