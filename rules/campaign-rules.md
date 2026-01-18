@@ -106,7 +106,7 @@ Best For: Epic two-player campaigns with dramatic escalation and territorial con
 
 The following rules describe the territorial system, mission selection, defender bonuses, and victory conditions unique to Conquest Campaigns.
 
-![](media/image/3.png)
+![](media/image/2.png)
 
 ### Territorial System
 
