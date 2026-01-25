@@ -33,7 +33,7 @@ The Deployment Zone defines the area where each player sets up their models befo
 
 For an engaging and tactical game, we recommend using a mix of large and small terrain pieces to create varied lines of sight, movement paths, and cover opportunities.
 
-Players have to agree upon the type of each used terrain piece before placing the terrain on the Game Area. See the Terrain on page 36.
+Players have to agree upon the type of each used terrain piece before placing the terrain on the Game Area. See the Terrain on page 38.
 
 ### Objectives
 
@@ -266,15 +266,27 @@ Must not end within Melee Range.</p></td>
 </tbody>
 </table>
 
-### Interact special Rules
+### Interact special Rule
 
-Reloading Black Powder Weapons  
-After firing a Black Powder weapon (whether the shot succeeds, fails, or misfires), the weapon must be reloaded:
+The Interact action allows a model to deliberately use objects on the battlefield. Interact may be used multiple times during the same activation, as long as the model has sufficient Action Points.
 
-Use the INTERACT action while not in Melee Range
+The effect of Interact depends on the type of object being used.
 
-The weapon cannot be fired again until reloaded  
-Some weapons or equipment may modify reload requirements
+##### Entryways
+
+Entryways such as doors or gates can be opened or closed using the Interact action. The model must be within 1 inch of the entryway.
+
+##### Weapons and Equipment
+
+Certain weapons or items require interaction to function. Black powder weapons must be reloaded using Interact after firing. Interact may also be used to remove jams or restore weapon functionality, if stated by the weapon rules.
+
+##### Objectives and Loot Sites
+
+Objectives and Loot Sites can be interacted with to loot equipment, resources, or to fulfill mission objectives. The model must be within 1 inch of the object. Mission rules define how often and for what purpose these objects may be used.
+
+##### Mission Specific Objects
+
+Some missions include special objects with unique Interact effects. These are described in the mission briefing and override the standard rules where applicable.
 
 ### Looting
 
@@ -911,6 +923,8 @@ Ranged weapons are less accurate at extreme distances.
 
 When making a Ranged Attack against a target more than 8" away, the attacker's HTV is worsened by 1.
 
+Only weapons are affected. Magical spells do not suffer a HTV penalty.
+
 ### Misfire Table
 
 When a weapon with the Black Powder or Warp Tech trait requires a Misfire check, roll 1D6 and consult the table below:
@@ -959,7 +973,7 @@ Whenever a model suffers damage from a critical hit in close combat, roll once o
 
 ##### Helmet
 
-Ignore results of 1 (Head) on the table.
+Ignore results of 1 (Head) on the Critical Injuries Table.
 
 ## Status Effects
 
@@ -1070,12 +1084,12 @@ When performing an Invocation, roll 2D6 to generate Divine Energy (DE). You may 
 
 ### Arcane & Divine Lores
 
-Each Warband may choose one Lore: either an Arcane Lore or a Divine Lore.
+Each Warband may choose one Arcane Lore and one Divine Lore.
 
 - Arcane Lores contain Spells and may only be used by models with the Arcane rule.
 - Divine Lores contain Invocations and may only be used by models with the Divine rule.
 - Each power may be used once per activation.
-- Mixed Warbands (e.g. Mercenaries) may only choose from the following universal Lores
+- Mixed Warbands (e.g. Mercenaries) may only choose from the following universal Lores.
 - Additional Lores are detailed in the respective Factions Traits.
 
 ### 
