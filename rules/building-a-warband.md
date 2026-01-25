@@ -16,11 +16,13 @@ While Grimheim supports flexible scaling, the following points ranges are sugges
 
 Each model must belong to one of the following factions:
 
-- Imperial
-- Undead
-- Primordial
-- Tribes
-- Mercenaries
+|                                 | Name              |
+|---------------------------------|-------------------|
+| ![](media/image/Imperial.png)   | Imperial          |
+| ![](media/image/Undead.png)     | Undead            |
+| ![](media/image/Primordial.png) | Primordial        |
+| ![](media/image/Tribes.png)     | Tribes            |
+| ![](media/image/All.png)        | Mercenaries / All |
 
 If all models in your warband belong to the same faction, you may use that faction’s unique Fate Modifiers, Arcane Lores or Divine Lores.
 
