@@ -274,9 +274,11 @@ The entries listed in this section are a reduced selection intended for quick or
 </tbody>
 </table>
 
-### Arcane / Divine Lores
+### Arcane Lore
 
 This Arcane Lore is available to models with the Arcane trait in all Warbands.
+
+### Divine Lore
 
 This Divine Lore is available to models with the Divine trait in all Warbands.
 
