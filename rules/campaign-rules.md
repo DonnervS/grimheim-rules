@@ -87,17 +87,17 @@ A Conquest Campaign simulates territorial warfare with a dynamic back-and-forth 
 
 ##### Campaign Structure:
 
-- Territorial Progression through five zones:  
+- Territorial Progression through five zones:\
   Your Stronghold \< Your Territory \< Neutral Grounds \> Enemy Territory \> Enemy Stronghold
 - Victory pushes into enemy territory; defeat forces retreat toward your own Stronghold
 - Defenders gain powerful bonuses when fighting on home ground
 - Each player selects one Stronghold Mission (faction-tagged) and three Territory Missions before the campaign begins
-- Conquest Points (CP):  
+- Conquest Points (CP):\
   In addition to Victory Points, Conquest Campaigns award Conquest Points to track how well you fare during the Campaign
 
 ##### Victory Conditions:
 
-- Capture and destroy the Enemy Stronghold for immediate victory, OR  
+- Capture and destroy the Enemy Stronghold for immediate victory, OR\
   Highest Conquest Points when both players agree to conclude
 
 Best For: Epic two-player campaigns with dramatic escalation and territorial conquest
@@ -292,7 +292,7 @@ When a model ended the mission with one or more Critical Injuries but was not De
 
 | D6 | Result | Effect |
 |----|----|----|
-| 1-4 | Permanent Wound | The injury persists. |
+| 1-4 | Permanent Wound | The injuries persist. |
 | 5 | Healed | The model has recovered fully with no lasting effects. |
 | 6 | Survivor | The model has recovered. Roll on the Survivor table for a bonus trait. |
 
@@ -344,8 +344,8 @@ Models that beat the odds gain experience from their near-death encounter. Roll 
 |----|----|----|
 | 1 | Swift | MOV +1 |
 | 2 | Stalwart | DEF +1 |
-| 3 | Onslaught | ATK +1 for one weapon of your choice |
-| 4 | Expertise | HTV -1 for one weapon of your choice |
+| 3 | Onslaught | ATK +1 for the main-hand weapon. |
+| 4 | Expertise | HTV -1 for the main-hand weapon. |
 | 5-6 | Veteran | Gain the Veteran trait (May re-roll one failed Attack or Defense die per turn) |
 
 Survivor bonuses are permanent and remain with the model for the rest of the campaign.
