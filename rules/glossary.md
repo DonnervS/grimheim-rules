@@ -68,7 +68,7 @@ Model: Individual miniature in game with its own stats.
 
 Movement (MOV): Movement distance in inches per action.
 
-Normal Success: Roll result ≥ target value, but not 6.  
+Normal Success: Roll result ≥ target value, but not 6.\
 Objective Marker: Terrain marker for Victory Points.
 
 Overwatch: State after OVERWATCH action, enables Reactions.
