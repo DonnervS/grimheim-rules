@@ -86,7 +86,7 @@ Missions may include Tags that define how to play them in a Campaign or that nor
 - Stronghold - Missions that are available for Stronghold games in Conquest Campaigns
 - Special - Missions that offer different play types with special rules; cannot be chosen for Campaign play.
 
-All Missions can be chosen for a Quick Game.  
+All Missions can be chosen for a Quick Game.\
 
 ## Turns
 
@@ -123,7 +123,7 @@ Players take turns activating ready models, beginning with the player who has in
 
 ##### Group Activation:
 
-Models with the Group or Large Group traits may be activated consecutively before the opponent activates their next model.
+Models with the Henchmen or Swarm traits may be activated consecutively before the opponent activates their next model.
 
 ##### Outnumbered:
 
@@ -133,7 +133,7 @@ At the start of the turn, if your warband has at least 2 models less than your o
 
 ##### Reactions:
 
-Only models that are currently in Overwatch may react when an enemy action is declared (e.g. dodging a shot or intercepting a nearby movement).  
+Only models that are currently in Overwatch may react when an enemy action is declared (e.g. dodging a shot or intercepting a nearby movement).\
 Reactions are resolved before the enemy action and do not cost AP (the AP was paid when the model entered Overwatch).
 
 See Reactions on page 19 for all rules and triggers.
@@ -310,23 +310,6 @@ Special actions count as actions.
 <table>
 <thead>
 <tr>
-<th scope="col"><p>Guard - 1 AP</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Gain 1 additional Block Die in the next Close Combat this turn.<br />
-This Block Die succeeds on the weapon's HTV value, critical on 6.</p></td>
-</tr>
-<tr>
-<td><p>Cannot be chosen if the model already fought during this activation.</p></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr>
 <th scope="col"><p>Overexertion - 1 AP</p></th>
 </tr>
 </thead>
@@ -403,7 +386,7 @@ Next turn, the model can only use Hide, Recover or PASS.</p></td>
 
 | Raise Shield - 1 AP |
 |----|
-| Until the start of the model's next activation, it counts as being in Cover against Ranged Attacks. |
+| Until the start of the model's next activation or action, it counts as being in Cover against Ranged Attacks. |
 | Cannot be used while within Melee Range of an enemy model. |
 
 | QUICK SHOT - 1 AP |
@@ -759,8 +742,20 @@ Choose one enemy model within Melee Range (1“). It becomes the Defender.
 
 Each player picks one Close Combat weapon profile for their model (Type close).
 
-If a model has no melee weapon, use the  
+If a model has no melee weapon, use the\
 Unarmed profile.
+
+##### Main and Off-hand weapon
+
+A model equipped with two Close Combat weapons may attack with both. The player must declare beforehand which weapon is the main hand and which is the off hand. The off-hand weapon may only perform 1 ATK.
+
+##### Unarmed:
+
+Models without a Close Combat weapon may use the following Unarmed Profile in Close Combat, representing their fists or makeshift weapon.
+
+| name    | RNG | ATK | htv | DMG | crt |
+|---------|-----|-----|-----|-----|-----|
+| Unarmed | 1“  | 2   | 5+  | 1   | 1   |
 
 ### 3. Roll Dice
 
@@ -776,21 +771,24 @@ Both players roll their Attack and Block Dice (if available).
 
 - Roll a number of D6 equal to the weapon’s ATK.
 - A result ≥ HTV is a normal success.
-- A 6 is a critical success.
+- A 6 is a critical success and may trigger additional rules.
 
 ##### Block Dice
 
-- Any bonus dice from Armor, Shields, or other rules, that may be used for blocking.
-- Each Block Die has a target value determined by its rules.
-- A 6 is a critical success.
+- Any bonus dice from Armor, Shields, or other rules, that may be used for blocking only.
+- A Block Die cancels an enemy Attack Die of equal or lower value.
+
+##### Assist:
+
+Each friendly model that is also in Melee Range of the Defender improves the Attacker’s HTV by 1 (to a minimum of 2+).
 
 ### 4. Resolve Dice
 
 The Attacker spends one successful die first; players then alternate until every successful die has been resolved or a model is defeated.
 
-Strike: When you spend a successful Attack Die to Strike, the Defender suffers Damage. A normal success inflicts the value of DMG; a critical success inflicts the value CRT and the model needs to roll for Critical Injuries.
+Strike: When you spend a successful Attack Die to Strike, the Defender suffers Damage. A normal success inflicts the value of DMG; a critical success inflicts the value CRT and the model needs to roll for Critical Injuries immediately.
 
-Block: When you spend any successful die to Block, you cancel one of your opponent’s unresolved successful dice. A normal success cancels a normal success; a critical success cancels any success. Block dice may only be spent in this way.
+Block: When you spend any successful Attack Die to Block, you cancel one of your opponent’s unresolved successful dice. A normal success cancels a normal success; a critical success cancels any success. Block dice may only be spent in this way.
 
 - If one player runs out of successful dice, the other player resolves all remaining dice.
 - A model whose wounds are reduced to 0 is Defeated and removed from the game.
@@ -799,33 +797,27 @@ Block: When you spend any successful die to Block, you cancel one of your oppone
 
 Some important Traits that affect combat.
 
-##### Assist:
-
-Each friendly model that is also in Melee Range of the Defender improves the Attacker’s HTV by 1 (to a minimum of 2+).
-
-##### Unarmed:
-
-Models without a Close Combat weapon may use the following Unarmed Profile in Close Combat, representing their fists or makeshift weapon.
-
-| name    | RNG | ATK | htv | DMG | crt |
-|---------|-----|-----|-----|-----|-----|
-| Unarmed | 1“  | 2   | 5+  | 1   | 2   |
-
 ##### Buckler:
 
-Grants +1 Block Die. Block succeeds on 5+, critical on 6.
+Grants 1 Block Die.
+
+Cannot block critical successes.
 
 ##### Shield:
 
-Grants +1 Block Die. Block succeeds on 4+, critical on 6.
+Grants 1 Block Die.
 
 ##### Medium Armor:
 
-Grants +1 Block Die. Block succeeds on 4+, critical on 6.
+Grants 1 Block Die.
 
 ##### Heavy Armor:
 
-Grants +1 Block Die. Block succeeds on 3+, critical on 6.
+Grants 1 Block Die. Roll 2 Dice and keep the higher result.
+
+##### Guard
+
+Any or all Block Dice may be re-rolled once.
 
 ##### Cleave
 
@@ -835,9 +827,9 @@ If you retain at least one critical success, you may upgrade one normal success 
 
 During the Resolve Dice step, this model always resolves the first successful die.
 
-Player 1 rolls 3 Attack Dice and 1 Block Die. Player 2 rolls 3 Attack Dice. The 3 and 2 are not successful and therefore ignored.  
-Player 1 uses the Block Die to block the successful 5 of his enemy.  
-Player 2 uses his critical success (6) to block the critical hit of Player 1.  
+Player 1 rolls 3 Attack Dice and 1 Block Die. Player 2 rolls 3 Attack Dice. The 3 and 2 are not successful and therefore ignored.\
+Player 1 uses the Block Die to block the successful 5 of his enemy.\
+Player 2 uses his critical success (6) to block the critical hit of Player 1.\
 Player 1 uses his successful Attack Die (4) to Strike and deal damage.
 
 ![](media/image/1.png)
@@ -855,6 +847,10 @@ The Attacker chooses one of the model’s ranged weapon profiles (Type range).
 - The Attacker selects a target in the model’s Line of Sight and within the weapon’s maximum range.
 - The target needs to be at least 2" away.
 - The target becomes the Defender.
+
+##### Nearest Foe
+
+If any enemy model is within 8”, the Attacker must target the closest one.
 
 ### 3. Roll Attack Dice
 
@@ -886,7 +882,7 @@ After each Defense Die is spent, remove it.
 The Attacker resolves all remaining successful Attack Dice:
 
 - A normal success inflicts damage equal to the weapon’s DMG value.
-- A critical success inflicts damage equal to the weapon’s CRT value and the model needs to roll for Critical Injuries.
+- A critical success inflicts damage equal to the weapon’s CRT value and the model needs to roll for Critical Injuries immediately.
 
 Reduce the Defender’s Wounds accordingly. A model whose Wounds are reduced to 0 is Defeated and removed from the game.
 
@@ -910,7 +906,7 @@ If a model is positioned on Elevated Terrain, it may declare the Take Aim action
 
 ##### Armor Piercing / Armor Shatter
 
-The Defender’s SAV value is worsened by 1 / 2  
+The Defender’s SAV value is worsened by 1 / 2\
 (to a minimum of 6+).
 
 ##### Cleave
@@ -954,11 +950,11 @@ A model is Defeated when its WND is reduced to 0 or less. Remove it from the gam
 
 ### Critical Injuries
 
-Whenever a model suffers damage from a critical hit in close combat, roll once on the Critical Injuries Table. Apply the result at the end of the turn in which the critical damage was inflicted.
+Whenever a model suffers damage from a critical hit in combat, roll on the Critical Injuries Table. Apply the result immediately.
 
 - Each injury effect lasts for the remainder of the game.
 - A model can only suffer each type of critical injury once per game.
-- In campaign play, roll on the Permanent Injuries Table after the mission to determine if the injury persists.
+- In campaign play, roll on the Injured Models Table after the mission to determine if the injury persists.
 
 ### Critical Injuries Table
 
