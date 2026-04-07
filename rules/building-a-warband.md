@@ -30,7 +30,7 @@ If your warband includes models from multiple factions, it is considered a Merce
 
 Mercenaries
 
-Mercenary warbands can include models from any faction. Each model costs an additional +5 points.
+Mercenary warbands can include models from any faction. Each model has to include the Mercenary Trait (+5 points).
 
 Mercenaries can only use the Common Fate Modifier and the Lesser Magic or Minor Rites Lores.
 
@@ -46,9 +46,9 @@ Choose one Arcane Lore or Divine Lore. It must be accessible to models with the 
 
 There are two ways to assemble a warband:
 
-1.  Use Existing Models / Iconic Warbands  
+1.  Use Existing Models / Iconic Warbands\
     You may choose pre-built models or complete Iconic Warbands as listed in the Faction chapters. These include full stats, weapons, and traits.
-2.  Create Custom Characters  
+2.  Create Custom Characters\
     Alternatively, you may build your own unique models using the Custom Character Builder on page 80.
 
 You may include a Leader in your warband, but it is not required.
@@ -94,32 +94,34 @@ Lists the model’s name and faction. This determines its identity and which fac
 
 ### 3. Points Cost
 
-Displayed in the upper corner, this is the cost in points (PT) to include the model in your warband. Total warband points must not exceed the agreed mission limit.
+Displayed in the corner, this is the cost in points (PT) to include the model in your warband. Total warband points must not exceed the agreed point limit.
 
 ### 4. Model stats
 
-AP (Action Points)  
+AP (Action Points)\
 The number of actions this model can perform during its activation.
 
-MOV (Movement)  
+MOV (Movement)\
 How far the model may move (in inches) during movement actions.
 
-DEF (Defense)  
+DEF (Defense)\
 The number of Defense Dice rolled when defending against an attack.
 
-SAV (Save)  
+SAV (Save)\
 The number needed on each die to block an incoming hit.
 
-WND (Wounds)  
+WND (Wounds)\
 The total health of the model. A model with 0 Wounds is defeated.
 
 ### 5. Flavor Text
 
-Descriptive text providing background, theme or personality. This section is optional and has no mechanical effect.
+Descriptive text providing background, theme or personality. This section is optional and has no in game effect.
 
 - This space can be used to place dice to track remaining Wounds during the game.
 
-### 6. Weapons
+### 6. Armament
+
+Each model is equipped with two hand slots that can be filled with up to two single-handed weapons, a two-handed weapon or a weapon and shield combo.
 
 Each weapon the model carries is listed with the following profile:
 
