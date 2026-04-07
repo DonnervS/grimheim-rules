@@ -501,7 +501,7 @@ If this healing fully restores the model’s WND to its original value, any exis
 </tr>
 <tr>
 <td><p>Buckler</p></td>
-<td><p>Grants +1 Block Die in Close Combat. Block succeeds on 5+, critical on 6.</p></td>
+<td><p>Grants 1 Block Die. Cannot block critical successes.</p></td>
 <td><p>4</p></td>
 </tr>
 <tr>
@@ -545,6 +545,11 @@ If this healing fully restores the model’s WND to its original value, any exis
 <td><p>27</p></td>
 </tr>
 <tr>
+<td><p>Duellist</p></td>
+<td><p>In close combat you can retain one of your attack dice as a successful roll to use to block.</p></td>
+<td><p>5</p></td>
+</tr>
+<tr>
 <td><p>Fast</p></td>
 <td><p>Gets +2" MOV for CHARGE or FALL BACK actions.</p></td>
 <td><p>4</p></td>
@@ -557,7 +562,7 @@ If this healing fully restores the model’s WND to its original value, any exis
 <tr>
 <td><p>Fearless</p></td>
 <td><p>Immune to the Fearful status effect.</p></td>
-<td><p>4</p></td>
+<td><p>2</p></td>
 </tr>
 <tr>
 <td><p>Fly</p></td>
@@ -576,8 +581,7 @@ If this healing fully restores the model’s WND to its original value, any exis
 </tr>
 <tr>
 <td><p>Guard</p></td>
-<td><p>"May perform the GUARD action for +1 Block Die in the next Close Combat.<br />
-This Block Die succeeds on the weapon's HTV value, critical on 6. "</p></td>
+<td><p>Any or all Block Dice may be re-rolled once.</p></td>
 <td><p>6</p></td>
 </tr>
 <tr>
@@ -597,7 +601,7 @@ This Block Die succeeds on the weapon's HTV value, critical on 6. "</p></td>
 </tr>
 <tr>
 <td><p>Heavy Armor</p></td>
-<td><p>"Grants +1 Block Die in Close Combat. Block succeeds on 3+, critical on 6.<br />
+<td><p>"Grants 1 Block Die. Roll 2 Dice and keep the higher result.<br />
 The model cannot use RUN. "</p></td>
 <td><p>6</p></td>
 </tr>
@@ -678,7 +682,7 @@ The model cannot use RUN. "</p></td>
 </tr>
 <tr>
 <td><p>Medium Armor</p></td>
-<td><p>Grants +1 Block Die in Close Combat. Block succeeds on 4+, critical on 6.</p></td>
+<td><p>Grants 1 Block Die.</p></td>
 <td><p>3</p></td>
 </tr>
 <tr>
@@ -738,7 +742,7 @@ The model cannot use RUN. "</p></td>
 </tr>
 <tr>
 <td><p>Shield</p></td>
-<td><p>Grants +1 Block Die in Close Combat. This Die succeeds on a 3+ and is a critical success on a 6. Model may use RAISE SHIELD special action.</p></td>
+<td><p>Grants 1 Block Die. Model may use RAISE SHIELD special action.</p></td>
 <td><p>7</p></td>
 </tr>
 <tr>
@@ -814,7 +818,7 @@ Succeeds on 5+, critical on 6. "</p></td>
 </tr>
 <tr>
 <td><p>Veteran</p></td>
-<td><p>May use GUARD and TAKE AIM actions.</p></td>
+<td><p>May use OVERWATCH.</p></td>
 <td><p>11</p></td>
 </tr>
 </tbody>
@@ -1026,28 +1030,13 @@ Each affected model defends separately."</p></td>
 </tr>
 <tr>
 <td><p>Two-handed</p></td>
-<td><p>Cannot use a Shield or Buckler. Cannot RUN.</p></td>
+<td><p>Cannot use an off-hand weapon, Shield or Buckler. Cannot RUN.</p></td>
 <td><p>-3</p></td>
 </tr>
 <tr>
 <td><p>Unwieldy</p></td>
 <td><p>A SHOOT or FIGHT action with this weapon costs 2 AP. This weapon cannot be used for an Overwatch reaction.</p></td>
 <td><p>-8</p></td>
-</tr>
-<tr>
-<td><p>Versatile Quiver</p></td>
-<td><p>"When making a Ranged Attack, declare one arrow type before rolling:<br />
-Piercing – Attacks gain the Armor Piercing rule.<br />
-Breaker – Ignores all benefits from Cover.<br />
-Flame – Gains the Fire rule.<br />
-Venom – Gains the Poison rule."</p></td>
-<td><p>17</p></td>
-</tr>
-<tr>
-<td><p>Warp Tech</p></td>
-<td><p>"After making a Ranged Attack with this weapon, if any Attack Die shows a 1 or 2, roll once on the Misfire Table (see Ranged Combat). Resolve the misfire immediately before determining hits. Results of 5 and 6 count as critical.<br />
-After firing, this weapon must be reloaded using the INTERACT action before it can fire again."</p></td>
-<td><p>-5</p></td>
 </tr>
 </tbody>
 </table>
