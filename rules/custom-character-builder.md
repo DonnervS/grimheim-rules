@@ -4,22 +4,22 @@ The Custom Character Builder lets you design unique models for Grimheim by combi
 
 Follow the steps below to assemble your model.
 
-1.  Faction  
-    Your model’s faction is determined by the warband it belongs to.  
+1.  Faction\
+    Your model’s faction is determined by the warband it belongs to.\
     The chosen faction grants access to its specific Fate Modifiers and Arcane or Divine Lores.
-2.  Body Type  
-    Select a Body Type to set your model’s base stats: AP, MOV, DEF, WND, and starting Traits.  
+2.  Body Type\
+    Select a Body Type to set your model’s base stats: AP, MOV, DEF, WND, and starting Traits.\
     Some Body Types are exclusive to certain factions. See the relevant faction chapter for the full list.
-3.  Tier  
-    Choose the Tier to determine whether the model is a standard fighter or an exceptional unit with improved stats and Traits.  
+3.  Tier\
+    Choose the Tier to determine whether the model is a standard fighter or an exceptional unit with improved stats and Traits.\
     If the model is part of a cross-faction warband, it must take the Mercenary Trait entry. This increases the cost by 5 points and uses one Trait slot.
-4.  Armor  
+4.  Armor\
     Select an Armor type. Armor determines the model’s SAV (Save) value and may grant additional Traits.
-5.  Traits  
+5.  Traits\
     Define the Class of a model by adding Traits.
-6.  Weapons  
+6.  Weapons\
     Equip up to two weapons. Weapon profiles define their range, attack values, and Traits.
-7.  Equipment  
+7.  Equipment\
     Optionally, add Equipment to enhance your model. Equipment provides Traits and can be found in missions or acquired during a campaign.
 
 ### Traits Limit
@@ -234,46 +234,6 @@ The entries listed in this section are a reduced selection intended for quick or
 </tbody>
 </table>
 
-<table>
-<thead>
-<tr>
-<th colspan="2" scope="col"><p>Ratling Fate</p></th>
-</tr>
-<tr>
-<th scope="col"><p>Faction: Point Cost: No. of Dice:</p></th>
-<th scope="col"><p>Ratlings<br />
-30 Pt<br />
-4</p></th>
-</tr>
-<tr>
-<th scope="col"><p>Ability</p></th>
-<th scope="col"><p>Description</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ### Arcane Lore
 
 This Arcane Lore is available to models with the Arcane trait in all Warbands.
@@ -399,7 +359,7 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>4</p></td>
 <td><p>12</p></td>
 <td><p>Tough</p></td>
-<td><p>49</p></td>
+<td><p>57</p></td>
 </tr>
 <tr>
 <td><p>Knight</p></td>
@@ -417,7 +377,7 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>3</p></td>
 <td><p>8</p></td>
 <td><p>Slow</p></td>
-<td><p>28</p></td>
+<td><p>24</p></td>
 </tr>
 <tr>
 <td><p>Dwarf</p></td>
@@ -426,7 +386,7 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>4</p></td>
 <td><p>12</p></td>
 <td><p>Slow, Hardened</p></td>
-<td><p>56</p></td>
+<td><p>50</p></td>
 </tr>
 <tr>
 <td><p>Elf</p></td>
@@ -435,7 +395,7 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>3</p></td>
 <td><p>10</p></td>
 <td><p>Fast</p></td>
-<td><p>39</p></td>
+<td><p>34</p></td>
 </tr>
 <tr>
 <td><p>Construct</p></td>
@@ -444,7 +404,7 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>4</p></td>
 <td><p>11</p></td>
 <td><p>Tough, Lifeless</p></td>
-<td><p>63</p></td>
+<td><p>60</p></td>
 </tr>
 <tr>
 <td><p>Canine</p></td>
@@ -452,8 +412,8 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>5“</p></td>
 <td><p>2</p></td>
 <td><p>8</p></td>
-<td><p>Group, Creature</p></td>
-<td><p>27</p></td>
+<td><p>Creature</p></td>
+<td><p>20</p></td>
 </tr>
 <tr>
 <td colspan="7"><p>Tribes</p></td>
@@ -464,8 +424,8 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>4“</p></td>
 <td><p>3</p></td>
 <td><p>8</p></td>
-<td><p>Fungus Brew, Group</p></td>
-<td><p>35</p></td>
+<td><p>Fungus Brew</p></td>
+<td><p>24</p></td>
 </tr>
 <tr>
 <td><p>Orc</p></td>
@@ -474,7 +434,7 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>3</p></td>
 <td><p>12</p></td>
 <td><p>Tough</p></td>
-<td><p>48</p></td>
+<td><p>42</p></td>
 </tr>
 <tr>
 <td><p>Savage Orc</p></td>
@@ -483,7 +443,7 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>3</p></td>
 <td><p>12</p></td>
 <td><p>Tough, Furious</p></td>
-<td><p>53</p></td>
+<td><p>47</p></td>
 </tr>
 <tr>
 <td><p>Black Orc</p></td>
@@ -492,7 +452,7 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>4</p></td>
 <td><p>13</p></td>
 <td><p>Tough, Ceaseless</p></td>
-<td><p>73</p></td>
+<td><p>53</p></td>
 </tr>
 <tr>
 <td><p>Gnasher</p></td>
@@ -500,11 +460,20 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>5"</p></td>
 <td><p>3</p></td>
 <td><p>9</p></td>
-<td><p>Creature, Group</p></td>
-<td><p>35</p></td>
+<td><p>Creature</p></td>
+<td><p>27</p></td>
 </tr>
 <tr>
 <td colspan="7"><p>Undead</p></td>
+</tr>
+<tr>
+<td><p>Vampire</p></td>
+<td><p>2</p></td>
+<td><p>4“</p></td>
+<td><p>3</p></td>
+<td><p>10</p></td>
+<td><p>Lifeless</p></td>
+<td><p>35</p></td>
 </tr>
 <tr>
 <td><p>Zombie</p></td>
@@ -512,8 +481,8 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>3“</p></td>
 <td><p>3</p></td>
 <td><p>8</p></td>
-<td><p>Undead, Slow, Large Group,</p></td>
-<td><p>34</p></td>
+<td><p>Lifeless, Slow</p></td>
+<td><p>25</p></td>
 </tr>
 <tr>
 <td><p>Zombie Runner</p></td>
@@ -521,8 +490,8 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>3“</p></td>
 <td><p>3</p></td>
 <td><p>8</p></td>
-<td><p>Undead, Group</p></td>
-<td><p>33</p></td>
+<td><p>Lifeless</p></td>
+<td><p>27</p></td>
 </tr>
 <tr>
 <td><p>Skeleton</p></td>
@@ -530,8 +499,8 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>3“</p></td>
 <td><p>3</p></td>
 <td><p>9</p></td>
-<td><p>Undead, Group</p></td>
-<td><p>36</p></td>
+<td><p>Lifeless</p></td>
+<td><p>27</p></td>
 </tr>
 <tr>
 <td><p>Skeleton Knight</p></td>
@@ -539,8 +508,8 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>3"</p></td>
 <td><p>3</p></td>
 <td><p>10</p></td>
-<td><p>Undead</p></td>
-<td><p>38</p></td>
+<td><p>Lifeless</p></td>
+<td><p>31</p></td>
 </tr>
 <tr>
 <td colspan="7"><p>Primordial</p></td>
@@ -552,7 +521,7 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>3</p></td>
 <td><p>10</p></td>
 <td></td>
-<td><p>35</p></td>
+<td><p>30</p></td>
 </tr>
 <tr>
 <td><p>Human Brute</p></td>
@@ -561,25 +530,25 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>4</p></td>
 <td><p>12</p></td>
 <td><p>Tough</p></td>
-<td><p>63</p></td>
+<td><p>57</p></td>
 </tr>
 <tr>
 <td><p>Ratling</p></td>
 <td><p>2</p></td>
-<td><p>5“</p></td>
-<td><p>3</p></td>
-<td><p>8</p></td>
-<td><p>Swift, Group</p></td>
-<td><p>36</p></td>
-</tr>
-<tr>
-<td><p>Giant Rats</p></td>
-<td><p>2</p></td>
-<td><p>6"</p></td>
+<td><p>4“</p></td>
 <td><p>3</p></td>
 <td><p>9</p></td>
-<td><p>Creature, Group</p></td>
-<td></td>
+<td><p>Swift</p></td>
+<td><p>31</p></td>
+</tr>
+<tr>
+<td><p>Giant Rat</p></td>
+<td><p>2</p></td>
+<td><p>5"</p></td>
+<td><p>2</p></td>
+<td><p>9</p></td>
+<td><p>Creature</p></td>
+<td><p>22</p></td>
 </tr>
 <tr>
 <td><p>Rat Ogre</p></td>
@@ -587,17 +556,8 @@ This Divine Lore is available to models with the Divine trait in all Warbands.
 <td><p>6"</p></td>
 <td><p>4</p></td>
 <td><p>14</p></td>
-<td><p>Tougher, Stupidity,</p></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Rat Swarm</p></td>
-<td><p>2</p></td>
-<td><p>4"</p></td>
-<td><p>2</p></td>
-<td><p>8</p></td>
-<td><p>Creature, Large Group</p></td>
-<td></td>
+<td><p>Tougher, Stupidity</p></td>
+<td><p>68</p></td>
 </tr>
 </tbody>
 </table>
@@ -655,9 +615,9 @@ The following additional Armor Types can be added as Traits.
 |  |  |  |
 |----|----|----|
 | Name | Description | Points |
-| Helmet | Injury Rolls of 1 (head) have no effect | 2 |
-| Buckler | Roll 1 additional Blocking Die in Close Combat. 2+ counts as a successful hit for blocking. A 6 is critical. | 5 |
-| Shield | Roll 1 additional Blocking Die in Close and Ranged Combat. 2+ counts as a successful hit for blocking or saving. A 6 is critical. | 7 |
+| Helmet | Ignores Head Injuries (result 1) from Critical Injuries table. | 2 |
+| Buckler | Grants 1 Block Die. Cannot block critical successes. | 5 |
+| Shield | Grants 1 Block Die. Model may use RAISE SHIELD special action. | 7 |
 
 ## Traits
 
@@ -669,27 +629,32 @@ Some Traits are Faction specific and can only be used by those factions.
 
 | Name | Traits | Points |
 |----|----|----|
-| Ambush | This model starts the game in reserve. At any turn after the first, deploy it anywhere, at least 9″ from any enemy model. | 4 |
+| Ambush | This model starts the game in reserve. At any turn after the first, deploy it anywhere, at least 9" from any enemy model. | 4 |
 | Artificer | May use COMMAND, but only targeting a model with the Construct trait. | 5 |
 | Balanced | Once per combat, you may reroll one Attack Die in Close Combat. | 2 |
 | Ceaseless | Re-roll any Attack Dice results of 1. | 7 |
 | Channeler | Roll 3D6 instead of 2D6 when generating Arcane Energy. | 7 |
-| Conduit | Rolls of 1 when generating Arcane Energy do not cause damage. | 7 |
-| Creature Command | May use Command, but only targeting a model with the Creature trait. | 6 |
-| Divine | May use the CLEANSE and INVOCATON actions. | 27 |
-| Furious | May perform the FIGHT action twice per activation. | 5 |
-| Guard | May perform the GUARD action for +1 Block Die in the next melee combat. | 6 |
-| Gunslinger | May perform the TAKE AIM action; may MOVE and SHOOT in the same activation. | 12 |
-| Hawkeye | Ranged attack rolls of 5+ are critical successes. | -5 |
+| Cleric | May use the CLEANSE special action. When using CLEANSE, the target also regains D3 Wounds. | 18 |
+| Conduit | Rolls of 1 when generating Arcane Energy do not cause damage. | 18 |
+| Creature Command | May use COMMAND, but only targeting a model with the Creature trait. | 6 |
+| Divine | May use the CLEANSE and INVOCATION actions. | 27 |
+| Duellist | In close combat you can retain one of your attack dice as a successful roll to use to block. | 5 |
+| Fear | Each critical hit that causes damage gives the enemy model the Fearful status. | 6 |
+| Furious | May perform the FIGHT action twice per activation. | 5 |
+| Guard | Any or all Block Dice may be re-rolled once. | 6 |
+| Gunslinger | May MOVE and SHOOT in the same activation. | 9 |
+| Hawkeye | Ranged attack rolls of 5+ are critical successes. | 4 |
 | Hunter | May use SHOOT twice per activation. | 5 |
 | Life Link | Each Critical Hit that deals damage heals 1 Wound. | 8 |
-| Marksman | May perform the TAKE AIM action. | 6 |
+| Marksman | May perform the TAKE AIM action. | 5 |
 | Mastery | If you score at least one critical success in an Attack Roll, roll 1 additional Attack Die immediately. This die is resolved as part of the same attack sequence. | 9 |
+| Medic | May use the HEAL special action. | 6 |
 | Necrotic Hunger | Heals D6 Wounds when defeating an enemy in Close Combat. | 6 |
+| Ranger | May perform the TAKE AIM and QUICK SHOT action. | 12 |
 | Relentless | May re-roll all Attack Dice once per Close Combat.  | 13 |
 | Scout | This model is deployed after all other models have been placed. Immediately after deployment, it may make a free move of up to 2× its MOV. | 6 |
-| Silent | May perform HIDE and SHOOT in the same activation. | 4 |
-| Sniper | May target enemies engaged in Melee without applying the Shoot into Combat disadvantage of potentially hitting a friendly model. May also use the TAKE AIM action. | 8 |
+| Second Sight | Friendly models within 6" may re-roll 1 Attack Die per turn. | 12 |
+| Sniper | May target enemies engaged in Melee without applying the Shoot into Combat disadvantage of potentially hitting a friendly model. May also use the TAKE AIM action. Has no Effective Range penalty. | 14 |
 | Stealth | Considered in Cover if at least a part of its volume is obscured by a terrain feature. | 4 |
 | Strider | Ignores the effects of Difficult or Dangerous terrain. | 6 |
 | Teleport | Use the MOVE action to move the model up to 3× its MOV in a straight line to a position it can see. Ignore all obstacles and terrain in between. Counts as a CHARGE action if the movement ends in Melee Range of an enemy model. | 9 |
@@ -706,53 +671,52 @@ A model can carry one two-handed weapon, two one-hand weapons, or a shield/buckl
 
 ## Close Combat Weapons
 
-| name           | RNG | ATK | htv | DMG | crt | Traits                          | Pt  |
-|----------------|-----|-----|-----|-----|-----|---------------------------------|-----|
-| Improvised     | 1“  | D2  | 5+  | 1   | 2   | -                               | 0   |
-| Ancient Sword  | 1"  | 3   | 4+  | 2   | 4   | Ancient                         | 16  |
-| Axe            | 1"  | 3   | 4+  | 2   | 3   | Cleave                          | 17  |
-| Club           | 1"  | 2   | 5+  | 2   | 3   |                                 | 4   |
-| Dagger         | 1"  | 2   | 5+  | 2   | 3   | First Strike                    | 6   |
-| Duelling Sword | 1"  | 3   | 4+  | 2   | 3   | Parry, Riposte                  | 18  |
-| Fangs          | 1"  | 3   | 5+  | 2   | 3   |                                 | 7   |
-| Flail          | 1"  | 3   | 4+  | 2   | 3   | Strike Last                     | 8   |
-| Great Axe      | 1"  | 3   | 3+  | 2   | 4   | Two-handed, Strike Last, Cleave | 19  |
-| Greathammer    | 1"  | 3   | 3+  | 2   | 4   | Two-handed, Strike Last, Stun   | 18  |
-| Greatsword     | 1"  | 3   | 3+  | 2   | 4   | Two-handed, Strike Last, Parry  | 16  |
-| Halberd        | 2"  | 3   | 4+  | 2   | 3   | Reach, Two-handed, Cleave       | 19  |
-| Lance          | 1"  | 2   | 5+  | 2   | 3   | Impact                          | 11  |
-| Morning Star   | 1"  | 3   | 4+  | 2   | 3   | Strike Last, Stun               | 14  |
-| Spear          | 2"  | 3   | 4+  | 2   | 3   | Reach                           | 13  |
-| Staff          | 1"  | 3   | 4+  | 1   | 2   | Parry, Push                     | 12  |
-| Sword          | 1"  | 3   | 4+  | 2   | 3   | Parry                           | 14  |
-| Warhammer      | 1"  | 3   | 4+  | 2   | 3   | Stun                            | 16  |
+| name           | RNG | ATK | htv | DMG | crt | Traits                    | Pt  |
+|----------------|-----|-----|-----|-----|-----|---------------------------|-----|
+| Improvised     | 1“  | D2  | 5+  | 1   | 1   | -                         | 0   |
+| Ancient Sword  | 1"  | 3   | 4+  | 2   | 4   | Ancient                   | 13  |
+| Axe            | 1"  | 3   | 4+  | 2   | 3   | Cleave                    | 15  |
+| Club           | 1"  | 2   | 5+  | 2   | 3   |                           | 4   |
+| Dagger         | 1"  | 3   | 5+  | 2   | 3   | First Strike              | 10  |
+| Duelling Sword | 1"  | 3   | 4+  | 2   | 3   | Parry, Riposte            | 16  |
+| Fangs          | 1"  | 3   | 5+  | 2   | 3   |                           | 6   |
+| Flail          | 1"  | 3   | 4+  | 2   | 3   | Harmful                   | 3   |
+| Great Axe      | 1"  | 3   | 3+  | 2   | 4   | Two-handed, Cleave        | 15  |
+| Greathammer    | 1"  | 3   | 3+  | 2   | 4   | Two-handed, Stun          | 14  |
+| Greatsword     | 1"  | 3   | 3+  | 2   | 4   | Two-handed, Parry         | 12  |
+| Halberd        | 2"  | 3   | 4+  | 2   | 3   | Reach, Two-handed, Cleave | 16  |
+| Lance          | 1"  | 2   | 5+  | 2   | 3   | Impact                    | 11  |
+| Morning Star   | 1"  | 3   | 4+  | 2   | 3   | Stun                      | 14  |
+| Spear          | 2"  | 3   | 4+  | 2   | 3   | Reach                     | 12  |
+| Sword          | 1"  | 3   | 4+  | 2   | 3   | Parry                     | 12  |
+| Warhammer      | 1"  | 3   | 4+  | 2   | 3   | Stun                      | 14  |
 
 ## Ranged Combat Weapons
 
-| name | RNG | ATK | htv | DMG | crt | Traits | Pt |
-|----|----|----|----|----|----|----|----|
-| Bow | 12" | 3 | 4+ | 2 | 3 |  | 16 |
-| Crossbow | 12" | 2 | 4+ | 2 | 4 | Armor Piercing | 22 |
-| Handgun | 10" | 3 | 4+ | 2 | 3 | Armor Piercing, Reloading | 16 |
-| Long Bow | 16" | 3 | 4+ | 2 | 3 |  | 18 |
-| Pistol | 8" | 2 | 3+ | 2 | 3 | Armor Piercing, Precision Targeting, Reloading | 20 |
-| Short Bow | 10" | 3 | 4+ | 1 | 2 |  | 10 |
-| Sling | 6" | 2 | 5+ | 1 | 2 |  | 1 |
+| name      | RNG | ATK | htv | DMG | crt | Traits                                   | Pt  |
+|-----------|-----|-----|-----|-----|-----|------------------------------------------|-----|
+| Bow       | 12" | 3   | 4+  | 2   | 3   |                                          | 18  |
+| Crossbow  | 16" | 2   | 4+  | 2   | 4   | Armor Piercingm Reloading                | 23  |
+| Handgun   | 10" | 3   | 4+  | 2   | 3   | Black Powder, Armor Piercing             | 15  |
+| Long Bow  | 16" | 3   | 4+  | 2   | 3   |                                          | 22  |
+| Pistol    | 8"  | 2   | 3+  | 2   | 3   | Black Powder, Armor Piercing, Meele Shot | 17  |
+| Short Bow | 10" | 3   | 4+  | 1   | 2   |                                          | 14  |
+| Sling     | 6"  | 2   | 5+  | 1   | 2   |                                          | 6   |
 
 Faction:
 
 Imperial
 
-Sol invictus, vita aeterna.  
+Sol invictus, vita aeterna.\
 The Flame That Never Falters
 
-  
-A fractured giant built upon the bones of fallen empires, the Imperium is more than a nation—it is an idea made manifest in stone, fire, and doctrine. Rooted in the twin legacies of Roman order and Germanic resilience, it spans a dozen electorates, each clinging to its own ancient identity. Together, they uphold a brittle unity beneath the gaze of Sol Invictus—the Unconquered Sun—whose divine light justifies the rule of emperors and inquisitors alike.  
-  
-Within this sprawling dominion, tradition is both shield and shackle. The Imperium defends stability, hierarchy, and the sacred flame of continuity, even as resentment smolders in its borderlands. From the shadowed halls of the Alpinewacht to the restless steppes of the Ostmark, its subjects live under a banner of glory and fear.  
-  
-Yet cracks are forming. The bureaucracy festers. The old nobility wars with reformers, and foreign faiths stir unrest among the lower castes. Still, the Imperium endures—grim, defiant, and eternal.  
-  
+\
+A fractured giant built upon the bones of fallen empires, the Imperium is more than a nation—it is an idea made manifest in stone, fire, and doctrine. Rooted in the twin legacies of Roman order and Germanic resilience, it spans a dozen electorates, each clinging to its own ancient identity. Together, they uphold a brittle unity beneath the gaze of Sol Invictus—the Unconquered Sun—whose divine light justifies the rule of emperors and inquisitors alike.\
+\
+Within this sprawling dominion, tradition is both shield and shackle. The Imperium defends stability, hierarchy, and the sacred flame of continuity, even as resentment smolders in its borderlands. From the shadowed halls of the Alpinewacht to the restless steppes of the Ostmark, its subjects live under a banner of glory and fear.\
+\
+Yet cracks are forming. The bureaucracy festers. The old nobility wars with reformers, and foreign faiths stir unrest among the lower castes. Still, the Imperium endures—grim, defiant, and eternal.\
+\
 Wherever the light of Sol Invictus falls, the Imperium follows.
 
 ## Introduction
@@ -2422,16 +2386,16 @@ Use this Name Generator to create immersive names for your Imperial characters. 
 
 Iconic Warband:
 
-Hexbrands   
+Hexbrands \
 Witchhunters
 
 Faith is fire.
 
 Doubt is heresy.
 
-  
-They are not soldiers, though they bear arms.  
-They are not priests, though they speak for the flame.  
+\
+They are not soldiers, though they bear arms.\
+They are not priests, though they speak for the flame.\
 They are judgment given flesh.
 
 The Witch Hunters are the relentless hounds of the Sol Invictus Cult—an autonomous order of interrogators, trackers, and executioners tasked with rooting out sorcery, heresy, and corruption wherever the sun‘s light does not reach. Operating beyond the reach of local law, they answer only to the Black Cardinals and the sacred flame itself.
@@ -2541,17 +2505,17 @@ Warband: Wildercorps Hunters
 
 Iconic Warband:
 
-Sisters of   
+Sisters of \
 Radiance
 
-The sun does not yield,  
+The sun does not yield,\
 and neither shall we.
 
-  
-The Sisters of Radiance are a militant order of women sworn to Sol Invictus, devoted to embodying his light not through words alone but through steel, discipline, and sacrifice. Clad in simple robes reinforced with plate, bearing hammers and burning icons, they are both guardians and zealots, feared for their resolve as much as for their faith.  
-  
-They dwell in fortified convents within the Imperium, places that serve as both sanctuary and training ground. Here, recruits are forged in body and spirit—taught to master the art of war, the discipline of doctrine, and the burden of mercy. Unlike the priesthood or the witch hunters, the Sisters claim no authority in law or judgment. Instead, they see themselves as the shield of the innocent and the blade of the righteous.  
-  
+\
+The Sisters of Radiance are a militant order of women sworn to Sol Invictus, devoted to embodying his light not through words alone but through steel, discipline, and sacrifice. Clad in simple robes reinforced with plate, bearing hammers and burning icons, they are both guardians and zealots, feared for their resolve as much as for their faith.\
+\
+They dwell in fortified convents within the Imperium, places that serve as both sanctuary and training ground. Here, recruits are forged in body and spirit—taught to master the art of war, the discipline of doctrine, and the burden of mercy. Unlike the priesthood or the witch hunters, the Sisters claim no authority in law or judgment. Instead, they see themselves as the shield of the innocent and the blade of the righteous.\
+\
 Yet their fervor is not without shadows. Some see in them uncompromising zeal that blinds as much as it guides, others a necessary counterbalance to the corruption of priests and the cruelty of inquisitors. To the Sisters themselves, such doubts mean nothing. Their creed is clear: where darkness spreads, they bring the fire.
 
 ## Iconic Warband - Sisters of Radiance
@@ -2697,7 +2661,7 @@ Sky Wardens
 
 Those Who Chose the Light
 
-  
+\
 The Sky Wardens are not a formal order, nor were they ever meant to exist. They are a gathered remnant, a band of the cast aside and the condemned, bound together not by rank or blood, but by belief. At their head stands an exiled Solar Knight of Sol Invictus, stripped of title and honor, yet not of faith. Where the Imperium turned its back, the light did not.
 
 Around him has formed a strange fellowship. Rebels who would not bend. Outcasts cast down by law or dogma. Soldiers who saw too much and refused to forget. They are accompanied by a priestess of Sol Invictus, a voice of ritual and conscience, who believes that the light must be carried to those it has abandoned. Together, they have sworn themselves not to the Imperium as it is, but to what it claims to be.
@@ -2829,13 +2793,13 @@ Primordial
 
 That Which Was Before
 
-  
-Before the first temple was raised, before the first crown was forged, before even the gods were named, there were the Primordials. They are not deities in the way mortals understand divinity, but the raw truths of existence—rage, change, excess, and life itself—given form. They are the tides beneath all tides, the storm before the wind, the fire before the flame.  
-  
-To some, they are chaos incarnate; to others, they are the truest order the world has ever known. Their followers—shamans, prophets, and warlords—seek not to reshape the world, but to return it to the state it was in before the laws of men and gods were written. In their eyes, civilization is a cage, and the Primordials are the keys.  
-  
-Their worship is older than any scripture and more dangerous than any heresy. There is no single church, no unifying creed—only countless cults and tribes bound by visions, omens, and the pulse of ancient power. Rituals vary from blood sacrifice beneath storm-torn skies to the planting of sacred groves where no axe may ever fall.  
-  
+\
+Before the first temple was raised, before the first crown was forged, before even the gods were named, there were the Primordials. They are not deities in the way mortals understand divinity, but the raw truths of existence—rage, change, excess, and life itself—given form. They are the tides beneath all tides, the storm before the wind, the fire before the flame.\
+\
+To some, they are chaos incarnate; to others, they are the truest order the world has ever known. Their followers—shamans, prophets, and warlords—seek not to reshape the world, but to return it to the state it was in before the laws of men and gods were written. In their eyes, civilization is a cage, and the Primordials are the keys.\
+\
+Their worship is older than any scripture and more dangerous than any heresy. There is no single church, no unifying creed—only countless cults and tribes bound by visions, omens, and the pulse of ancient power. Rituals vary from blood sacrifice beneath storm-torn skies to the planting of sacred groves where no axe may ever fall.\
+\
 The Primordial Forces do not promise mercy or justice. They promise truth, stripped of all illusions. To follow them is to embrace the wild heart of creation, and to risk being consumed by it.
 
 ## Body Types
