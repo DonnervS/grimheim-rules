@@ -20,7 +20,7 @@ Items can grant traits (the Boots of Flying grant Fly, the Poison item gives a m
 **At a glance**
 
 - A model within 1″ of a Loot Site can loot it once per game and roll on the Equipment Table.
-- Roll a D66: the first die gives the tens, the second the units.
+- Roll a D66: the lower die is the tens, the higher the units.
 - On 11 the model finds a Trap and is hit by a Ranged Attack instead of finding an item.
 - Every item has a point cost (PTS), its value during Campaign play.
 
@@ -187,7 +187,7 @@ Example A looting roll goes wrong
 
 The Swordsman (Human: VIT 10; Chainmail, SAV 4+) stands within 1″ of a Loot Site and spends 1 ACT on INTERACT to loot it.
 
-1.  It rolls the D66: first die \[1\], second die \[1\]. The result is **11**: a Trap.
+1.  It rolls the D66: \[1\] and \[1\]. The result is **11**: a Trap.
 2.  The Trap counts as a Ranged Attack with ATK 3, HTV 4+, DMG 3, CRT 4. Roll its three Attack Dice: \[6\] \[4\] \[2\]. That is one critical success and one normal success.
 3.  The Swordsman is the Defender and rolls its 3 Defense Dice against SAV 4+: \[5\] \[3\] \[1\]. One normal success.
 4.  A normal Defense success can only discard a normal success, so it cancels the \[4\]. The \[6\] stays.

@@ -143,7 +143,7 @@ They pick the effect first, then read the die. The die itself never changes.
 
 Example D66 and D33
 
-For a D66 roll the player rolls \[5\] and \[3\]: the lower die is the tens, so the result is **35**. For a D33 they roll two dice and converts each to D3: \[6\] becomes 3 and \[2\] becomes 1, so the result is **31**.
+For a D66 roll the player rolls \[5\] and \[3\]: the lower die is the tens, so the result is **35**. For a D33 they roll two dice and convert each to D3: \[6\] becomes 3 and \[2\] becomes 1, so the result is **31**.
 
 ## Game Modes
 
