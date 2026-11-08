@@ -1,179 +1,174 @@
-# How to play Grimheim
+# How to Play
+
+*Before the first blade is drawn. This chapter explains what you need on the table, how dice are read in Grimheim, and which kinds of game you can play.*
 
 ## General Principle
 
-Grimheim is built to create a fun and fair tactical experience. While the rules aim for clarity, not every situation may be covered. Use common sense, prioritize game flow, and agree with your opponent on unclear cases. If you can’t reach a consensus, perform a Roll-off.
+**At a glance**
 
-1.  Roll-off
+- Play fair, keep the game moving, agree on unclear cases.
+- If you cannot agree, settle it with a Roll-off.
+- Distances are in inches (″). You may measure at any time.
 
-Each player rolls one D6. The higher result wins. Re-roll on ties.
+Grimheim aims to be a fun and fair tactical game. The rules try to be clear, but no rulebook covers every situation. Use common sense, put the flow of the game first, and agree with your opponent on unclear cases. If you cannot agree, perform a Roll-off.
 
-1.  Distances and Measurements
+**Roll-off**
 
-Measurements are taken in inches (“) and may be made at any time during the game.
+Each player rolls one D6. The higher result wins. Roll again on a tie.
 
-## Grimheim Game Rules
+### Distances and measuring
 
-Start with the Game Rules for quick, balanced two-player games. For added complexity, explore optional rules such as Campaign Play and custom Missions.
+All distances are in inches (″). You may measure any distance at any time during the game, also before you decide what a model does.
 
-## Game Materials
+### Models
 
-To play Grimheim, you’ll need:
+A model is one miniature on the battlefield: a warrior, creature or character of your warband. Each model has its own characteristics, weapons and abilities, listed on its model card (see The Model Card).
 
-- A flat surface or game mat (e.g. 30″ x 30″)
-- Miniatures to represent your warband
+Example Settling a question
+
+The players disagree whether a crate is high enough to give Cover. They roll off: \[3\] against \[3\], a tie, so both roll again: \[5\] against \[2\]. The first player wins and the crate counts as Cover for the rest of the game.
+
+Agree on every terrain piece before the game starts and most of these questions never come up (see Terrain).
+
+## What You Need
+
+**At a glance**
+
+- A 30″ × 30″ table, terrain, your models, a few D6 and an inch ruler.
+- Model cards and rules cards, printed or in the Grimheim Companion.
+
+### Required
+
+- A flat surface or game mat, standard 30″ × 30″
+- Miniatures for your warband
 - Terrain pieces
 - Six-sided dice (D6)
 - An inch ruler
-- Character Cards or the Grimheim Companion
-- Rules Cards or the Grimheim Companion
+- Model cards or the Grimheim Companion
+- Rules cards or the Grimheim Companion
 
-Optional for smoother play:
+Small warbands up to 500 pts may play on 24″ × 24″ (see Encounter).
 
-- Tokens or polyhedral dice (D10, D12, D20) to track wounds or effects
-- Color-coded dice for a better distinction
+### Helpful
 
-## Recommended Creators
+- Tokens or polyhedral dice (D10, D12, D20) to track Vitality and effects
+- Dice in different colours, so Attack Dice, Block Dice and Fate Dice are easy to tell apart
 
-1.  Miniatures
-    - VaeVictis (www.patreon.com/vaevictisminiatures)
-    - Titan Forge (titan-forge.com)
-    - Punga Miniatures (pungaminiatures.com)
-    - Moshartz (www.patreon.com/Moshartz)
-    - Highlands Miniatures (www.patreon.com/highlands_miniatures)
-    - Magori Miniatures (www.patreon.com/magoriminiatures)
-    - Landor Miniatures (www.patreon.com/landorminiatures)
-    - Axia (www.myminifactory.com/users/87Axia)
-2.  <span id="A5_Rules_Doppelseiten-1.xhtml__idTextAnchor000"></span>Terrain
-    - MyDungeon (www.myminifactory.com/users/My-Dungeon)
-    - Tired World Studio (www.myminifactory.com/users/tiredworldstudio)
-3.  Game Mats
-    - Kraken Wargames (www.krakenwargames.com)
-    - PWork Wargames (www.pworkwargames.com)
-    - Urban Matz (www.urbanmatz.com)
+### Recommended creators
+
+**Miniatures**
+
+VaeVictis · Titan Forge · Punga Miniatures · Moshartz · Highlands Miniatures · Magori Miniatures · Landor Miniatures · Axia
+
+**Terrain**
+
+MyDungeon · Tired World Studio
+
+**Game mats**
+
+Kraken Wargames · PWork Wargames · Urban Matz
+
+Links to every creator are collected on grimheim.de.
 
 ## Cards
 
-Grimheim offers a set of helpful cards to streamline gameplay. All functions and downloadable card sets are also available in the Grimheim Companion at grimheim.app:
+Grimheim comes with a set of cards that keep the rules at hand during play. All of them are also part of the Grimheim Companion at grimheim.app.
 
-- Model Cards – Show all vital stats and abilities for each model.
-- Fate Modifier Cards – Summarize the special bonuses granted by your warband’s chosen Fate Modifier.
-- Arcane & Divine Lores – Contain spells and magical effects tied to specific factions.
-- Mission Cards – Provide setup, deployment, and scoring conditions for the scenario being played.
-- Equipment Cards – Contain all items that can be looted or used during play, listing their effects, traits, and point values for campaign use.
-- Rules Reference – Provides a quick overview of core rules and actions during the game.
+| Card | What it shows |
+|----|----|
+| **Model Cards** | All stats and abilities of one model. |
+| **Fate Modifier Cards** | The bonuses of your warband’s Fate Modifier. |
+| **Arcane & Divine Lores** | Spells and invocations of a lore. |
+| **Mission Cards** | Setup, deployment and scoring of a mission. |
+| **Equipment Cards** | Items that can be looted or bought, with effects, traits and campaign value. |
+| **Rules Reference** | The core rules and actions in short form. |
 
-## Dice Types & Results
+![A model card.](media/image/card_model.jpg)
 
-Grimheim primarily uses six-sided dice (D6), interpreted in different ways depending on context:
+A model card (see The Model Card)
 
-<table>
-<thead>
-<tr>
-<th colspan="8" scope="colgroup"><p>Dice Conversion</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td headers="th_1_r0_c0"><p><span>D</span><span>6</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span><span>-</span><span>6</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span></p></td>
-<td headers="th_1_r0_c0"><p><span>2</span></p></td>
-<td headers="th_1_r0_c0"><p><span>3</span></p></td>
-<td headers="th_1_r0_c0"><p><span>4</span></p></td>
-<td headers="th_1_r0_c0"><p><span>5</span></p></td>
-<td headers="th_1_r0_c0"><p><span>6</span></p></td>
-</tr>
-<tr>
-<td headers="th_1_r0_c0"><p><span>D</span><span>3</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span><span>-</span><span>3</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span></p></td>
-<td headers="th_1_r0_c0"><p><span>2</span></p></td>
-<td headers="th_1_r0_c0"><p><span>2</span></p></td>
-<td headers="th_1_r0_c0"><p><span>3</span></p></td>
-<td headers="th_1_r0_c0"><p><span>3</span></p></td>
-</tr>
-<tr>
-<td headers="th_1_r0_c0"><p><span>D</span><span>2</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span><span>-</span><span>2</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span></p></td>
-<td headers="th_1_r0_c0"><p><span>2</span></p></td>
-<td headers="th_1_r0_c0"><p><span>2</span></p></td>
-<td headers="th_1_r0_c0"><p><span>2</span></p></td>
-</tr>
-<tr>
-<td headers="th_1_r0_c0"><p><span>D</span><span>1</span></p></td>
-<td headers="th_1_r0_c0"><p><span>0</span><span>-</span><span>1</span></p></td>
-<td headers="th_1_r0_c0"><p><span>0</span></p></td>
-<td headers="th_1_r0_c0"><p><span>0</span></p></td>
-<td headers="th_1_r0_c0"><p><span>0</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span></p></td>
-<td headers="th_1_r0_c0"><p><span>1</span></p></td>
-</tr>
-</tbody>
-</table>
+![A Fate Modifier card.](media/image/card_fate.jpg)
 
-1.  Other Roll Types
+A Fate Modifier card (see The Fate Modifier Card)
 
-2D6: Roll two dice and add results (range: 2–12).
+## Dice and Notation
 
-D6+1: Roll one die and add 1 (range: 2–7).
+**At a glance**
 
-D66: Roll two dice—first is tens, second is units (11–66).
+- Grimheim uses six-sided dice. “4+” means a roll of 4, 5 or 6.
+- A Fate Die is always rolled as a D6 and then read as a D6, D3, D2 or D1, depending on the effect it is used for.
+- A die can be re-rolled only once. The second result stands.
 
-D33: Roll two D3—first is tens, second is units (11–33).
+Grimheim uses six-sided dice (D6). The same D6 can be read in different ways, depending on the rule that asks for it.
 
-1.  Dice Mechanics
+### Roll types
 
-Re-roll: Reroll a single die. The second result stands. One reroll per die.
+![](media/image/dg_dice.png)
 
-Replace: Swap a die result with a Fate die result.
+| Notation | How to roll | Range |
+|----|----|----|
+| **D6** | Roll one die. | 1 to 6 |
+| **X+** | A target number. The die succeeds on X or higher. | “4+” = 4, 5, 6 |
+| **2D6** | Roll two dice and add the results. | 2 to 12 |
+| **D6+1** | Roll one die and add 1. | 2 to 7 |
+| **D3, D2, D1** | Roll a D6 and convert it with the table below. | see table |
+| **D66** | Roll two dice. The lower die is the tens, the higher the units (a 5 and a 3 read 35). | 11 to 66 |
+| **D33** | Roll two D3. The first is the tens, the second the units. | 11 to 33 |
 
-Roll-off: Each player rolls 1D6. The higher result wins. Reroll ties.
+### Dice conversion
 
-## Model
+| Read as | Range  | \[1\] | \[2\] | \[3\] | \[4\] | \[5\] | \[6\] |
+|---------|--------|-------|-------|-------|-------|-------|-------|
+| **D6**  | 1 to 6 | 1     | 2     | 3     | 4     | 5     | 6     |
+| **D3**  | 1 to 3 | 1     | 1     | 2     | 2     | 3     | 3     |
+| **D2**  | 1 to 2 | 1     | 1     | 1     | 2     | 2     | 2     |
+| **D1**  | 0 to 1 | 0     | 0     | 0     | 1     | 1     | 1     |
 
-An individual miniature on the battlefield representing a warrior, creature, or character in your warband. Each model has its own characteristics, weapons, and abilities.
+### Dice mechanics
+
+- **Re-roll:** roll one die again. The second result stands. A die can be re-rolled only once.
+- **Replace:** swap a die result for the result of a Fate Die, as it is, without conversion.
+- **Roll-off:** each player rolls 1D6, the higher result wins, re-roll ties.
+
+Example Reading the same die four ways
+
+At the start of the turn a player rolls a Fate Die and gets \[5\]. Later they spend it:
+
+- for an effect read as D6 it is worth 5,
+- as D3 it is worth 3,
+- as D2 it is worth 2,
+- as D1 it is worth 1.
+
+They pick the effect first, then read the die. The die itself never changes.
+
+Example D66 and D33
+
+For a D66 roll the player rolls \[5\] and \[3\]: the lower die is the tens, so the result is **35**. For a D33 they roll two dice and convert each to D3: \[6\] becomes 3 and \[2\] becomes 1, so the result is **31**.
 
 ## Game Modes
 
-Grimheim can be played in multiple formats, each offering different levels of depth and progression. Choose the mode that best suits your time and play style.
+**At a glance**
 
-1.  Quick Game
+- **Quick Game:** one battle, 30 to 60 minutes, start here.
+- **Campaign:** linked battles in which your warband grows and suffers. Three formats: Ongoing, Conquest, Map Control.
 
-Perfect for standalone battles or when you want immediate tactical action without long-term commitment.
+Grimheim can be played in different formats, each with its own depth and progression. Choose the one that fits your time and your group.
 
-#### Setup:
+### Quick Game
 
-- Set Point Limit: Agree on a common point value for both warbands to ensure balanced gameplay.
-- Build Your Warband: Create a custom warband using the Character Builder or select a pre-built Iconic Warband from the faction chapters.
-- Choose a Mission: Select a Mission (standard is Encounter) and determine which warbands will face off.
-- Victory Condition: Score the most Victory Points through objectives and defeating enemies to claim victory.
+A standalone battle with immediate tactical action and no long-term commitment. Quick Games suit tournaments and casual evenings and take 30 to 60 minutes.
 
-Quick Games are ideal for tournaments or casual games. They are designed for 30–60 minutes of fast-paced tactical play.
+1.  **Set the point limit.** Agree on a common point value for both warbands.
+2.  **Build your warband.** Use the Character Builder or field a pre-built Iconic Warband from the faction chapters.
+3.  **Choose a mission.** The standard mission is Encounter. Decide which warbands face off.
+4.  **Play for victory.** Score the most Victory Points from objectives and defeated enemies.
 
-1.  Campaign Play
+### Campaign Play
 
-Campaigns transform individual skirmishes into an evolving narrative where your warband grows, suffers setbacks, and forges its legend across multiple linked battles. Grimheim offers three campaign formats:
+Campaigns turn single skirmishes into a story: your warband grows, suffers setbacks and earns its legend across linked battles. Grimheim offers three campaign formats; the third is still in preparation. The full rules are in Campaign Rules.
 
-See the Campaign Rules chapter for complete rules.
-
-1.  Ongoing Campaign
-
-An open-ended campaign for any number of players. Warbands keep a Roster, grow between battles with earned Gold, and players may join or leave while the campaign runs. Ranking by wins; Victory Points break ties.
-
-Best For: open groups, campaign nights with changing players, long-running narratives
-
-1.  Conquest Campaign
-
-An epic territorial warfare campaign where two warbands fight for control of Grimheim through a dynamic, shifting battlefield. Push through five escalating zones, from Neutral Grounds to the enemy's Stronghold, with defenders gaining powerful advantages on home ground. Victory pushes into enemy territory; defeat forces retreat. The ultimate goal: capture and destroy the Enemy Stronghold.
-
-Best For: Two-player campaigns with dramatic escalation and territorial conquest
-
-## Optional Game Rules
-
-<span id="A5_Rules_Doppelseiten-2.xhtml"></span>
+| Format | In short | Best for |
+|----|----|----|
+| **Ongoing Campaign** | Open-ended, any number of players. Warbands keep a Roster and grow with earned Gold. Players may join or leave while it runs. Ranking by wins, Victory Points break ties. | Open groups, campaign nights with changing players, long-running stories. |
+| **Conquest Campaign** | Two warbands fight across five zones, from Neutral Grounds to the enemy Stronghold. A win pushes into enemy territory, a loss forces a retreat. Defenders gain advantages on home ground. Goal: take the enemy Stronghold. | Two players who want escalation and territory. |
+| **Map Control Campaign** | A war for the districts of Grimheim on a campaign map of tiles with different advantages. Two to six players. Rules in preparation. | Groups who want a shared map and a long game. |
