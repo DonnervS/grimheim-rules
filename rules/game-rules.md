@@ -1,1164 +1,995 @@
 # Game Rules
 
-## <span id="A5_Rules_Doppelseiten-3.xhtml__idTextAnchor004"></span>Setup
+*The core of the game. This chapter explains how a battle is set up, how a turn runs, what models can do, and how sight, movement, terrain, combat, damage, status effects and magic work.*
 
-Unless another mission is agreed upon, use the Mission - Encounter on page 38.
+## Setup
 
-- Roll-off: Winner chooses either to be the Defender or the Attacker. The other player takes the remaining role.
-- Set up the Game Area by placing terrain and objectives as described in the mission rules.
-- Deploy your models alternatingly, starting with the Defender.
-- The goal of the game is to achieve the most Victory Points (VP).
+**At a glance**
 
-Before starting a game, agree on a total point limit with your opponent, see Suggested Warband Sizes on page 14.
+- Agree on a point limit (600 PTS is the standard) and a Mission. Without another agreement, play Encounter.
+- The Mission tells you how to build the table, who attacks and who defends, where the objectives lie and where the warbands deploy.
+- Score Victory Points for controlling and holding objectives (within 2″ and in Line of Sight) and 2 VP the first time each enemy model is Defeated.
 
-1.  Missions
+Every battle is fought as a Mission. Agree on a point limit (see Points and Size) and on a Mission before the game. Unless you agree on another one, play Encounter, the standard Mission and the example used throughout this book.
 
-There are several different missions available, each offering unique objectives and scoring conditions see Missions on page 40. The standard mission Encounter serves as the primary example described in this rulebook. If players decide to use a different mission, other rules may apply.
+### The setup in five steps
 
-1.  Game Area
+1.  **Mission and Region.** Choose a Mission, a Battlefield Region and, if you like, one Battle Condition (see Regions of Grimheim).
+2.  **Terrain.** Build the battlefield as the Mission says (see Setup Terms). The standard battlefield is 30″ × 30″.
+3.  **Roles and objectives.** Settle the roles and place the objectives as the Mission says.
+4.  **Side Quests.** Each player may choose one Side Quest.
+5.  **Deployment.** Deploy as the Mission says; by default the players alternate, one model at a time, each wholly within their own Deployment Zone.
 
-There are two ways to set up the Game Area:
+The player with the most Victory Points (VP) at the end of the game wins. Equal VP is a draw.
 
-Classic Setup: Perform a Roll-off. The winner chooses to either place terrain and objectives (becoming the Defender) or select a deployment zone (becoming the Attacker). The other player takes the remaining role.
+#### Terrain
 
-Alternating Setup: Both players roll off to determine their deployment zones first. Then, they take turns placing terrain and objectives until setup is complete.
+Use a mix of large and small terrain pieces for varied lines of sight, routes and cover. Before you place it, agree on the type of every terrain piece (see Terrain). Each Region of Grimheim lists suitable pieces and how many of them to use.
 
-Use the method best suited to your chosen mission or group preference.
+#### Deployment Zones
 
-1.  Deployment Zone
+A Deployment Zone is the area in which a player sets up their models before the game. Its size and position depend on the Mission. In Encounter each zone is the band within 6″ of a player's table edge, so the zones lie 18″ apart.
 
-The Deployment Zone defines the area where each player sets up their models before the game begins. Its size and position may vary depending on the chosen mission. In the standard Encounter scenario, deployment zones are placed on opposite sides of the battlefield at least 18 inches apart. Players deploy their models within their designated zone during setup.
+#### Objectives
 
-Place your models alternatingly in your Deployment Zone, starting with the Defender.
+Objectives are points of interest that give Victory Points as the Mission describes: Objective Markers spread over the table, or one Objective Area at its centre (see Mission Rules).
 
-1.  <span id="A5_Rules_Doppelseiten-3.xhtml__idTextAnchor005"></span>Terrain
+#### Looting
 
-For an engaging and tactical game, we recommend using a mix of large and small terrain pieces to create varied lines of sight, movement paths, and cover opportunities.
+Looting is optional. A model within 1″ of a Loot Site may use the INTERACT action to loot it: roll on the Equipment Table (see Appendix) to see what, if anything, it finds. **Each Loot Site can be looted once per game.** In Encounter every Objective Marker is also a Loot Site. Looting gives no Victory Points unless the Mission says so.
 
-Players have to agree upon the type of each used terrain piece before placing the terrain on the Game Area. See the Terrain on page 38.
+Looting carries a small risk: a roll of 11 on the Equipment Table triggers a trap.
 
-1.  Objectives
+### Scoring
 
-Objectives are a points of interest rewarding Victory Points according to the Mission rules.
+Earn Victory Points from the mission goals:
 
-For the Mission Encounter the following applies:
+- controlling and holding objectives,
+- defeating enemy models,
+- completing Side Quests,
+- mission-specific goals.
 
-After setting up the terrain, the Defender rolls D3 + 1 to determine the number of Objective Markers. The Defender then randomly places them on the battlefield, ensuring each is at least 8″ apart and not within any Deployment Zone. These markers represent key locations that can be controlled for Victory Points or optionally looted for equipment.
+**Control and hold**
 
-1.  Looting Objectives
+A player **controls** an objective if at least one of their models is within 2″ of it and has Line of Sight to it. Both players can control the same objective. A player **holds** it if more of their models control it than enemy models do. In Encounter: **1 VP** for each objective you control and **+1 VP** for each objective you hold, at the end of each turn.
 
-Looting is optional and can be performed on a Loot Site. A model must be within 1″ of the Loot Site and use the Interact action to attempt looting. When looting, roll on the Equipment Table on page 57 to see what item, if any, is found. Each Loot Site may be looted only once per model.
+![](media/image/dg_objective.png)
 
-- Looting comes with a small risk—rolling an 11 on the Equipment Table triggers a trap!
+**Fig. 3.1** A and D control the marker, and so does C. B is within 2″, but the wall blocks its Line of Sight: it does not count.
 
-1.  Scoring
+Example Scoring one objective
 
-Earn Victory Points (VP) based on mission goals, such as:
+At the end of the turn the situation is as in Fig. 3.1.
 
-- Controlling objectives
-- Defeating enemy models
-- Completing Side Quests on page 19
-- Specific mission objectives
+1.  Friendly A and D are within 2″ and see the marker: the friendly player controls it, **1 VP**.
+2.  Enemy C is within 2″ and sees the marker: the enemy player also controls it, **1 VP**.
+3.  Enemy B is within 2″ but the wall blocks its sight, so it does not count.
+4.  Two friendly models control the marker against one enemy: the friendly player holds it, **+1 VP**.
 
-The player with the most VP at game end of the game wins.
+Friendly player 2 VP, enemy player 1 VP from this objective.
 
-##### Controlling Objectives
+#### Defeating enemy models
 
-At the end of each round, players are awarded Victory Points (VP) based on how many models they have near each objective:
-
-- 1 VP for each objective you control (any model within 2″ and in LOS).
-- +1 VP if you have more models at that objective than your opponent.
-
-<!-- -->
-
-- To control an objective, a model must be within 2″ of it and have uninterrupted line of sight to the marker.
-
-##### Defeating enemy models
-
-Additionally, each player scores VP for defeating enemy models.
-
-- 2 VP the first time an enemy model is Defeated in this game. A model that returns to play and is Defeated again yields no further VP.
-
-1.  Tags <span id="A5_Rules_Doppelseiten-3.xhtml__idTextAnchor006"></span>
-
-Missions may include Tags that define how to play them in a Campaign or that normal Rules do not apply. The following Tags are available:
-
-- Base - Normal Mission can be played any time
-- Territory - Missions that are available for Territory games in Conquest Campaigns
-- Stronghold - Missions that are available for Stronghold games in Conquest Campaigns
-- Special - Missions that offer different play types with special rules; cannot be chosen for Campaign play.
-
-All Missions can be chosen for a Quick Game.\
+Each player scores **2 VP** the first time an enemy model is Defeated in this game. A model that returns to play and is Defeated again gives no further VP. NPCs, Garrison models and Structures are not enemy models for this rule.
 
 ## Turns
 
-A standard battle consists of 4 turns, with a 5th turn possible under special conditions.
+**At a glance**
 
-Each turn follows this structure:
+- A battle lasts 4 turns. A 5th turn, Overtime, is played if one player trails by 5 VP or more.
+- Each turn: Initiative, Fate, Actions, End.
+- Players alternate activating one model at a time. A model spends its ACT, then it is done for the turn.
 
-1.  Initiative Phase
+![](media/image/dg_turnwheel.png)
 
-Both players roll a D6. The higher result gains initiative for the turn. In case of a tie, roll again.
+**Fig. 3.2** The turn wheel. **1** Initiative, **2** Fate, **3** Actions, **4** End. Four turns make a battle.
 
-##### Overtime:
+A standard battle lasts 4 turns. Each turn has four phases:
 
-A 5th turn starts if one of the players has at least 5 VP less than his opponent.
+1.  **Initiative Phase.** Both players roll a D6. The higher result has the initiative this turn. Roll again on a tie.
+2.  **Fate Phase.** Each player rolls their Fate Dice.
+3.  **Action Phase.** Players alternate activating their models, starting with the player who has the initiative.
+4.  **End Phase.** Unused Fate Dice expire and VP are scored.
 
-1.  Fate Phase
+### 1 · Initiative Phase
 
-Each player rolls a number of Fate Dice based on their faction’s Fate Modifiers.
+Both players roll a D6. The higher result gains the initiative for the turn. On a tie, roll again.
 
-Fate Dice can be spent during the Action Phase.
+**Overtime**
 
-##### Against the Odds:
+Overtime is checked after scoring in turn 4. If one player then has at least 5 VP fewer than their opponent, a 5th turn is played. Side Quests judged at the end of the game do not count toward this check. Stronghold Missions are never extended by Overtime.
 
-If your Warband’s total point cost is at least 20 points lower than your opponent’s, gain +1 Fate Die each turn.
+### 2 · Fate Phase
 
-1.  Action Phase
+Each player rolls as many Fate Dice as their Fate Modifier gives (see Fate Modifier). Fate Dice are spent in the Action Phase.
 
-Players take turns activating ready models, beginning with the player who has initiative.
+**Against the Odds**
 
-- A model may perform actions by spending its Actions (ACT).
-- After using all ACT or using the Pass action, the model is no longer ready.
-- Players alternate activating models until none remain ready.
-- If one player has no more ready models, the opposing player may activate all of their remaining ready models one after another.
+If your warband’s total point cost is at least 20 points lower than your opponent’s, you gain +1 Fate Die each turn.
 
-##### Group Activation:
+Example Against the Odds
 
-Models with the Henchmen or Swarm traits may be activated consecutively before the opponent activates their next model.
+Warband A costs 598 pts, warband B costs 625 pts. The difference is 27 pts, at least 20, so the player of warband A rolls one extra Fate Die in every Fate Phase of the game.
 
-##### Outnumbered:
+### 3 · Action Phase
 
-At the start of the turn, if your warband has at least 2 models fewer than your opponent, you gain 1 free Overwatch action for every 2 models fewer (rounded down).
+Players take turns activating ready models, starting with the player who has the initiative.
 
-- A free Overwatch may be given to any model, even one that has already been activated this turn. The restrictions of the Overwatch action apply: not while in Base Contact.
+- A model performs actions by spending its Actions (ACT).
+- After it has spent all ACT, or used the PASS action, the model is no longer ready.
+- Players alternate until no ready models remain.
+- If one player has no ready models left, the other player activates all of their remaining ready models one after another.
 
-##### Reactions:
+#### Group Activation
 
-Only models that are currently in Overwatch may react when an enemy action is declared (e.g. dodging a shot or intercepting a nearby movement).\
-Reactions are resolved before the enemy action and do not cost ACT (the ACT was paid when the model entered Overwatch).
+Models with the Henchmen or Swarm trait may be activated one after another, before the opponent activates their next model.
 
-See Reactions on page 19 for all rules and triggers.
+#### Outnumbered
 
-1.  End Phase
-    - The turn ends when no ready models remain.
-    - Unused Fate Dice expire.
-    - Score VP as described by the active mission.
+At the start of the turn, if your warband has at least 2 models fewer than your opponent’s, you gain 1 free OVERWATCH for every 2 models fewer, rounded down.
 
-    <!-- -->
+- A free Overwatch may be given to any model, even one that has already been activated this turn.
+- The restrictions of the Overwatch action apply: not while in Base Contact.
 
-    - Use tokens or flip cards to track model activation status.
+Example Outnumbered
+
+At the start of turn 3 player A has 7 models left and player B has 3. B has 4 models fewer: 4 ÷ 2 = **2 free Overwatch**. With 6 against 3 it would be 3 ÷ 2 = 1.5, rounded down to **1**.
+
+B gives one free Overwatch to their Crossbowman, who has already acted this turn, and one to their Captain. The Captain is in Base Contact with an enemy and cannot take it. B gives it to another model instead.
+
+#### Reactions
+
+Only models on Overwatch may react when an enemy action is declared, for example to dodge a shot or to intercept a movement. Reactions are resolved before the enemy action and cost no ACT: the ACT was paid when the model went on Overwatch. See Reactions.
+
+### 4 · End Phase
+
+- The turn ends when no ready models remain.
+- Unused Fate Dice expire.
+- Score VP as the active mission describes.
+
+Use tokens or turn the model cards to track which models have activated.
 
 ## Actions
 
-Unless specified otherwise, a model may not perform the same action more than once per activation.
+**At a glance**
 
-The following actions are available to all models:
+- A model spends its ACT on actions. Most cost 1 ACT, RUN and FALL BACK cost 2.
+- A model may not perform the same action twice in one activation, unless a rule allows it.
+- Some actions exclude others in the same activation. The table below shows which.
 
-| Pass - 1 ACT |
-|----|
-| No effect. Can be used multiple times in the same activation to end a model‘s turn early. |
+The following actions are available to all models. A model may not perform the same action more than once per activation, unless a rule says otherwise.
 
-| MOVE - 1 ACT |
-|----|
-| Move the model up to its MOV value in inches. It may not move through other models, impassable terrain or into Base Contact with enemies. |
-| Cannot be used while in Base Contact with an enemy model. |
+### Action menu
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Run - 2 ACT</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Move up to twice the model’s <span>MOV</span> value. It may not move through other models, impassable terrain or into Base Contact with enemies.<br />
-Counts as a <span>MOVE</span> action.</p></td>
-</tr>
-<tr>
-<td><p>Cannot be used while in Base<span> Contact wi</span>th an enemy model or in the same activation as <span>Move</span>, <span>CHARGE</span> or <span>FALL BACK</span>.</p></td>
-</tr>
-</tbody>
-</table>
+| Action | ACT | Base Contact | Not in the same activation as |
+|----|----|----|----|
+| MOVE | 1 | not allowed | RUN, CHARGE, FALL BACK, SHOOT, TAKE AIM |
+| RUN | 2 | not allowed | MOVE, CHARGE, FALL BACK, SHOOT, QUICK SHOT, OVERWATCH, TAKE AIM |
+| CHARGE | 1 | not allowed (ends in it) | MOVE, RUN, FALL BACK, HIDE, OVERWATCH, TAKE AIM |
+| FIGHT | 1 | required |  |
+| SHOOT | 1 | not allowed | MOVE, RUN, FALL BACK, HIDE, QUICK SHOT, OVERWATCH |
+| QUICK SHOT | 1 | not allowed | RUN, HIDE, SHOOT, OVERWATCH |
+| FALL BACK | 2 | required | MOVE, RUN, CHARGE, SHOOT, TAKE AIM |
+| OVERWATCH | 1 | not allowed | RUN, CHARGE, SHOOT, QUICK SHOT |
+| HIDE | 1 | not allowed | SHOOT, QUICK SHOT, CHARGE, TAKE AIM |
+| INTERACT | 1 | not allowed, unless stated | may be repeated |
+| RECOVER | 1 | not allowed, unless stated |  |
+| PASS | 1 | allowed | may be repeated |
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Charge - 1 ACT</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Move up to <span>MOV</span> +<span>2</span>″. Must end the move in Base Contact with an enemy model. Attacker gets +<span>1</span> ATK in the following Close Combat.<br />
-Jumping down from a height (within <span>3</span>″) grants +<span>1</span> Critical Hit in the following fight.</p></td>
-</tr>
-<tr>
-<td><p>Cannot be used while already in <span>Base Contact</span> or during the same activation as <span>MOVE</span>, <span>FALL BACK</span>, or <span>HIDE</span>.</p></td>
-</tr>
-</tbody>
-</table>
+The table lists each restriction from both sides: SHOOT forbids HIDE, so HIDE also lists SHOOT. TAKE AIM is a special action and appears here only as a restriction.
 
-| Fight - 1 ACT                                               |
-|-------------------------------------------------------------|
-| Engage in Close Combat as the Attacker.                     |
-| Can only be used while in Base Contact with an enemy model. |
+Move
 
-| Shoot - 1 ACT |
-|----|
-| Make a Ranged Attack with one of the model‘s ranged weapons. |
-| Cannot be used while in Base Contact or in the same activation as MOVE, Run or HIDE. |
+Move the model up to its MOV in inches. It may not move through other models or impassable terrain, or into Base Contact with enemies.
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Fall back - 2 ACT</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Move as a normal <span>MOVE</span> but may pass through Base Contact with enemies.<br />
-Must not end in Base Contact.</p></td>
-</tr>
-<tr>
-<td><p><span>Only</span> usable while already in <span>Base Contact</span>. Cannot be used in the same activation as <span>MOVE</span> or <span>CHARGE</span>.</p></td>
-</tr>
-</tbody>
-</table>
+Not while in Base Contact with an enemy model.
 
-| Recover - 1 ACT                                               |
-|---------------------------------------------------------------|
-| Remove the status effects: Burning, Fearful, Stunned, Frozen. |
-| Cannot be used while in Base Contact unless otherwise stated. |
+Run
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Overwatch - 1 ACT</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Place the model on Overwatch. While on Overwatch, it may declare one <span>Reaction</span>.</p>
-<p>Overwatch ends as soon as that Reaction has been resolved or when the model is next activated – whichever happens first.</p></td>
-</tr>
-<tr>
-<td><p>Cannot be used while in <span>Base Contact</span> or in the same activation as <span>Run</span> or <span>Charge</span>.</p></td>
-</tr>
-</tbody>
-</table>
+Move up to twice the model’s MOV. It may not move through other models or impassable terrain, or into Base Contact with enemies. Counts as a MOVE action.
 
-| Hide - 1 ACT |
-|----|
-| If in Cover and out of Line of Sight, the model becomes Hidden. |
-| Cannot be used while in Base Contact or during the same activation as SHOOT or CHARGE. |
+Not while in Base Contact with an enemy model, and not in the same activation as MOVE, CHARGE or FALL BACK.
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Interact - 1 ACT</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Interact with an <span>Objective</span>, <span>Weapon</span> or <span>Entryway</span>.</p>
-<p>Must be within <span>1</span>″ of the object.</p>
-<p>Can be used multiple times in the same activation.</p></td>
-</tr>
-<tr>
-<td><p>Cannot be used while in <span>Base Contact</span> unless otherwise stated.</p></td>
-</tr>
-</tbody>
-</table>
+Charge
 
-1.  Interact special Rule
+Move up to MOV + 2″. The move must end in Base Contact with an enemy model. The charger gets +1 ATK in the following Close Combat. Jumping down from a height of up to 3″ grants +1 critical hit in that fight.
 
-The Interact action allows a model to deliberately use objects on the battlefield. Interact may be used multiple times during the same activation, as long as the model has sufficient Actions.
+Not while already in Base Contact, and not in the same activation as MOVE, FALL BACK or HIDE.
 
-The effect of Interact depends on the type of object being used.
+Fight
 
-##### Entryways
+Start a Close Combat as the Attacker (see Close Combat).
 
-Entryways such as doors or gates can be opened or closed using the Interact action. The model must be within 1 inch of the entryway.
+Only while in Base Contact with an enemy model.
 
-##### Weapons and Equipment
+Shoot
 
-Certain weapons or items require interaction to function. Black powder weapons must be reloaded using Interact after firing. Interact may also be used to remove jams or restore weapon functionality, if stated by the weapon rules.
+Make a Ranged Attack with one of the model’s ranged weapons (see Ranged Combat).
 
-##### Objectives and Loot Sites
+Not while in Base Contact, and not in the same activation as MOVE, RUN, FALL BACK, HIDE or OVERWATCH.
 
-Objectives and Loot Sites can be interacted with to loot equipment, resources, or to fulfill mission objectives. The model must be within 1 inch of the object. Mission rules define how often and for what purpose these objects may be used.
+Quick Shot
 
-##### Mission Specific Objects
+Make a Ranged Attack with one of the model’s ranged weapons. Its HTV is worsened by 1 (minimum 6+). Counts as a SHOOT action.
 
-Some missions include special objects with unique Interact effects. These are described in the mission briefing and override the standard rules where applicable.
+Not while in Base Contact, and not in the same activation as RUN, HIDE or OVERWATCH.
 
-1.  Looting
+Fall Back
 
-When a model is in base contact with a Loot Site, it may spend one action to Interact with it in order to loot the object.
+Move as with a normal MOVE, but the model may pass through Base Contact with enemies. It must not end in Base Contact.
 
-- A Loot Site can be looted once per game. Roll on the Equipment on page 64 to determine which item is found.
-- In the standard Encounter mission, all Objectives count as Loot Sites. Other missions may specify additional or alternative Loot Sites in their mission briefing.
+Only while in Base Contact. Not in the same activation as MOVE, CHARGE or SHOOT.
 
-<!-- -->
+Overwatch
 
-- Equipment cards can be printed and placed next to your model card for easier tracking and quick reference during play.
+Place the model on Overwatch. While on Overwatch it may declare one Reaction. Overwatch ends when that Reaction is resolved or when the model is next activated, whichever comes first.
 
-## <span id="A5_Rules_Doppelseiten-3.xhtml__idTextAnchor007"></span>Special Actions
+Not while in Base Contact, and not in the same activation as RUN, CHARGE, SHOOT or QUICK SHOT. A Veteran’s free Overwatch after its activation ignores the SHOOT and QUICK SHOT restriction.
 
-Special actions can only be performed if granted by Traits, faction abilities, or equipment.
+Hide
 
-Unless otherwise stated, a model cannot perform the same special action more than once per activation.
+If the model is in Cover and out of every enemy’s Line of Sight, it becomes Hidden (see Hidden).
 
-Special actions count as actions.
+Not while in Base Contact, and not in the same activation as SHOOT or CHARGE.
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Overexertion - 1 ACT</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Gain <span>+</span><span><span>2</span></span><span> ACT</span> this turn. The model may use <span>Shoot</span> or <span>Fight</span> actions twice.<br />
-Next turn, the model can only use <span>Hide</span>, <span>Recover</span> or <span>PASS</span>.</p></td>
-</tr>
-</tbody>
-</table>
+Interact
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Cleanse - 1 ACT</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Select a friendly model within <span><span>1</span></span><span>″</span> (the acting model may target itself).</p>
-<p>Remove any of the following status effects:</p>
-<p><span>Burning</span>, <span>Cursed</span>, <span>Poisoned</span>, <span>Fearful</span>, <span>Stunned</span>, <span>Frozen</span>.</p></td>
-</tr>
-<tr>
-<td><p>Cannot be used while in Base<span> Contact wi</span>th an enemy model.</p></td>
-</tr>
-</tbody>
-</table>
+Use an Objective, a Weapon or an Entryway within 1″, or hand over an item to a friendly model within 1″. May be used several times in the same activation.
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Heal - 1 ACT</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Select a friendly model within <span><span>1</span></span><span>″</span>. That model regains <span>2</span><span>D</span><span>3</span> lost Vitality and the <span>Poisoned</span> status is removed.</p>
-<p>If this healing fully restores the model’s <span>VIT</span> to its original value, any existing Injury effects are also removed.</p></td>
-</tr>
-<tr>
-<td><p>Cannot be used while in Base<span> Contact wi</span>th an enemy model.</p></td>
-</tr>
-</tbody>
-</table>
+Not while in Base Contact, unless stated otherwise.
 
-| Take Aim - 1 ACT |
-|----|
-| The next Ranged Attack made by this model during this activation has its HTV improved by 1 (minimum 2+). |
-| Cannot be used while in Base Contact or in the same activation as MOVE, Run, CHARGE, FALL BACK  or HIDE. |
+Recover
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Cast a spell - 1 ACT</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Roll <span>2</span><span>D</span><span>6</span> to generate <span>Arcane Energy</span>. Cast a spell from your Warband’s <span>Arcane Lore</span> with equal or lower cost.</p>
-<p>Each <span>1</span> rolled causes <span>2</span> Fatal Damage.</p>
-<p>Magic Scrolls may be cast without rolling for <span>Arcane Energy</span>.</p></td>
-</tr>
-</tbody>
-</table>
+Remove the status effects Burning, Fearful, Stunned and Frozen.
 
-| Invocation - 1 ACT |
-|----|
-| Roll 2D6 to generate Divine Energy. Invoke a power from your Warband’s Divine Lore with equal or lower cost. |
+Not while in Base Contact, unless stated otherwise.
 
-| Command - 1 ACT |
-|----|
-| Choose one friendly model within 12″. If it has not activated this turn, it gains +1 ACT for its activation. If it has already activated this turn, it immediately performs one action. |
+Pass
 
-| Raise Shield - 1 ACT |
-|----|
-| Until the start of the model's next activation or action, it counts as being in Cover against Ranged Attacks. This does not stack with Cover from terrain. |
-| Cannot be used while in Base Contact with an enemy model. |
+No effect. May be used several times in the same activation, to end the model’s activation early.
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>QUICK SHOT - 1 ACT</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p>Make a Ranged Attack with one of the model's ranged weapons. The attack's HTV is worsened by <span>1</span> (minimum <span>6</span>+).<br />
-Counts as a <span>SHOOT</span> action.</p></td>
-</tr>
-<tr>
-<td><p>Cannot be used while in <span>Base Contact</span> or in the same activation as <span>Run</span> or <span>HIDE</span>.</p></td>
-</tr>
-</tbody>
-</table>
+Example Planning an activation
+
+An Archer (ACT 2, MOV 5″) with a Long Bow (RNG 18″, ATK 3, HTV 3+) stands in the open, 20″ from the nearest enemy, out of range.
+
+1.  The Archer cannot MOVE and then SHOOT: SHOOT is not allowed in the same activation as MOVE.
+2.  It can MOVE 5″ to a low wall, now 15″ from the enemy, and use QUICK SHOT. QUICK SHOT worsens its HTV by 1, and Effective Range worsens it by 1 more because the target is over 8″ away: it hits on 5+.
+3.  Next turn it stays behind the wall and uses SHOOT at HTV 4+ (only Effective Range applies). With its second ACT it cannot HIDE, because HIDE is not allowed in the same activation as SHOOT. Nor can it go on OVERWATCH after shooting, so its second ACT is a PASS. If the player would rather watch the lane, the Archer gives up the shot and goes on OVERWATCH instead.
+
+Moving costs accuracy. Standing still keeps it. Shooting and watching are two different turns.
+
+![](media/image/sp_charge.png) Example Charge and fight
+
+The Swordsman (MOV 5″) is 6″ from a Skeleton Warrior.
+
+1.  A MOVE of 5″ does not reach, and MOVE may not end in Base Contact anyway.
+2.  CHARGE moves up to MOV + 2″ = 7″. It ends in Base Contact and gains +1 ATK for the following fight.
+3.  With its second ACT it declares FIGHT and rolls 3 + 1 + 1 = 5 Attack Dice: its ATK, +1 for the charge and +1 for Attacker’s Advantage.
+
+CHARGE is the only way into Base Contact, and it pays for itself with the extra attack.
+
+### Interact in detail
+
+The INTERACT action lets a model use objects on the battlefield on purpose. It may be used several times in the same activation, as long as the model has ACT left. What it does depends on the object:
+
+- **Entryways.** Doors and gates within 1″ can be opened or closed.
+- **Weapons and equipment.** Some weapons and items need an interaction to work. Black powder weapons must be reloaded with INTERACT after firing. INTERACT may also clear jams or restore a weapon, if its rules say so.
+- **Objectives and Loot Sites.** Within 1″ of the object, a model can loot it, take resources or fulfil a mission goal. The mission defines how often and for what.
+- **Mission objects.** Some missions have special objects with their own INTERACT effects. Their briefing overrides the standard rules.
+- **Hand over.** Give one item from the Equipment table to a friendly model within 1″. Weapons and armor cannot be handed over. The recipient can use the item’s trait only while it carries the item.
+
+#### Looting
+
+When a model is within 1″ of a Loot Site, it may spend one action to INTERACT with it and loot it.
+
+- A Loot Site can be looted once per game. Roll on the Equipment Table to find out which item is found.
+- In Encounter all Objective Markers count as Loot Sites. Other missions may name other or additional Loot Sites.
+- Looting gives no Victory Points unless the Mission says so.
+
+Print the equipment cards you find and place them next to the model card.
+
+## Special Actions
+
+**At a glance**
+
+- Special actions are only available if a trait, the faction or an item grants them.
+- They count as actions, cost ACT, and cannot be repeated in one activation unless stated.
+
+Special actions can only be performed if a trait, a faction ability or a piece of equipment grants them. They count as actions. Unless stated otherwise, a model cannot perform the same special action more than once per activation.
+
+Take Aim
+
+The next Ranged Attack this model makes in this activation has its HTV improved by 1 (minimum 2+).
+
+Not while in Base Contact, and not in the same activation as MOVE, RUN, CHARGE, FALL BACK or HIDE.
+
+Command
+
+Choose one friendly model within 12″. If it has not activated this turn, it gains +1 ACT for its activation. If it has already activated this turn, it immediately performs one action.
+
+Raise Shield
+
+Until the start of the model’s next activation or action, it counts as being in Cover against Ranged Attacks. This does not stack with Cover from terrain.
+
+Not while in Base Contact with an enemy model.
+
+Overexertion
+
+Gain +2 ACT this turn. The model may use SHOOT or FIGHT twice. Next turn the model can only use HIDE, RECOVER or PASS.
+
+Heal
+
+Choose a friendly model within 1″. It regains 2D3 lost Vitality and loses the Poisoned status. If this restores its full original VIT, its Injury effects are also removed.
+
+Not while in Base Contact with an enemy model.
+
+Cleanse
+
+Choose a friendly model within 1″; the model may choose itself. Remove any of these status effects: Burning, Cursed, Poisoned, Fearful, Stunned, Frozen.
+
+Not while in Base Contact with an enemy model.
+
+Cast a Spell
+
+Roll 2D6 for Arcane Energy and cast a spell of your Arcane Lore with equal or lower cost. Each 1 rolled causes 2 Fatal Damage. Magic Scrolls are cast without rolling (see Arcane & Divine Powers).
+
+Invocation
+
+Roll 2D6 for Divine Energy and invoke a power of your Divine Lore with equal or lower cost.
+
+Example Command
+
+The Captain uses COMMAND on two different turns.
+
+1.  Turn 1: it chooses a friendly Crossbowman, 9″ away, who has not activated yet. When the Crossbowman activates, it has 2 + 1 = 3 ACT.
+2.  Turn 2: the Swordsman has already activated and stands in Base Contact with an Orc. The Captain commands it, and the Swordsman immediately performs one action: a FIGHT.
+
+Before activation, COMMAND adds an ACT. After activation, it buys one extra action at once.
+
+Example Taking aim from a roof
+
+A Marksman with a Bow (HTV 3+) stands on a rooftop and has not moved. It uses TAKE AIM, then SHOOT. Its HTV becomes 2+. Had the target been more than 8″ away, Effective Range would worsen it again to 3+.
 
 ## Reactions
 
-Sometimes a warrior’s reflexes are faster than any plan. A model that has taken the Overwatch action can interrupt an opponent’s move the instant it happens.
+**At a glance**
 
-Reactions count as an Action.
+- Only a model on Overwatch can react, once, when an enemy declares an action that meets a trigger.
+- The Reaction is resolved first, then the enemy action finishes.
+- Four Reactions: Retreat, Dodge, Intercept, Reaction Shot.
 
-##### When can I react? - Reaction triggers
+Sometimes a warrior’s reflexes are faster than any plan. A model that has taken the OVERWATCH action can interrupt an enemy the moment it acts. Reactions count as an action.
 
-1.  The enemy model declares an action.
-2.  Before any dice are rolled, any friendly model that is on Overwatch and meets a trigger below may declare one Reaction.
-3.  Resolve the Reaction immediately, then finish resolving the enemy action.
+### The reaction sequence
 
-##### Reaction Rules
+1.  **Declare.** An enemy model declares an action.
+2.  **React.** Before any dice are rolled, one friendly model that is on Overwatch and meets a trigger may declare one Reaction.
+3.  **Resolve.** Resolve the Reaction immediately, then finish the enemy action.
 
-- The reacting model must be on Overwatch; models not on Overwatch cannot react.
-- Overwatch ends after the Reaction is resolved or when the model is next activated, whichever comes first.
-- The model must not be Stunned, Frozen, or Defeated.
-- One Reaction per enemy action; Reactions never trigger further Reactions.
-- Reactions cost no ACT (the ACT was paid when Overwatch was declared).
+### Rules for reacting
+
+- The reacting model must be on Overwatch. Models not on Overwatch cannot react.
+- Overwatch ends when the Reaction is resolved or when the model is next activated, whichever comes first.
+- The model must not be Stunned, Frozen or Defeated.
+- One Reaction per enemy action. Reactions never trigger further Reactions.
+- Reactions cost no ACT: the ACT was paid when Overwatch was declared.
 - A model is either on Overwatch or not. A free Overwatch (Veteran, Outnumbered) does not stack with a paid one or with another free one.
-- All usual rules for Line of Sight, Cover and weapon restrictions apply.
+- All normal rules for Line of Sight, Cover and weapon restrictions apply.
 
-<!-- -->
+Retreat
 
-- Reactions introduce snap-decisions and positional play - keep an eye on your remaining ACT and your opponent’s next move!
+**Trigger:** a CHARGE declared against the reacting model.
 
-| Retreat |
-|----|
-| Trigger: A CHARGE declared against the reacting model. |
-| This model immediately moves D3+1" directly away from the charging enemy model, following normal movement rules. It must end not in Base Contact with any enemy and may not pass through enemy models. If the final distance exceeds the charging model's remaining movement, this model is no longer in Base Contact and the CHARGE fails. The charging model ends its movement at its maximum range toward the target. |
+The model immediately moves D3 + 1″ directly away from the charging enemy, following normal movement rules. It must not end in Base Contact with any enemy and may not pass through enemy models. If the distance is more than the charger’s remaining movement, the models are no longer in Base Contact and the CHARGE fails. The charger ends its move at its maximum range toward the target.
 
-| Dodge |
-|----|
-| Trigger: A SHOOT or a CAST A SPELL action that targets the reacting model. |
-| The reacting model gains +1 DEF die against that single attack (apply before Fate or other modifiers). |
+Dodge
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Intercept</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p><span>Trigger:</span> An enemy model moves within <span>2″</span> of the reacting model at any point during a <span>MOVE</span>, <span>RUN</span>, <span>CHARGE</span>, or <span>FALL BACK</span> action.</p></td>
-</tr>
-<tr>
-<td><p>The reacting model makes <span>1</span> attack with one of its weapons with its <span>ATK</span> characteristic worsened by <span>1</span>.</p>
-<p>The attack is executed as a ranged attack (the defender cannot declare its own attack and only has a defense Roll). Resolve this attack immediately, then the enemy continues its move if possible.</p></td>
-</tr>
-</tbody>
-</table>
+**Trigger:** a SHOOT or CAST A SPELL action that targets the reacting model.
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Reaction Shot</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p><span>Trigger:</span> An enemy model comes within <span>8″</span> of the reacting model at any point during a <span>MOVE</span>, <span>RUN</span>, <span>CHARGE</span>, or <span>FALL BACK</span> action.</p></td>
-</tr>
-<tr>
-<td><p>Make a Ranged Attack against the triggering enemy model with the following modifiers:</p>
-<p><span>-</span> Reduce ATK by <span>1</span> (minimum <span>1</span>)</p>
-<p><span>-</span> Worsen HTV by <span>1</span> (minimum <span>6</span>+)</p></td>
-</tr>
-</tbody>
-</table>
+The model rolls one additional Defense Die against that single attack. Apply this before Fate Dice or other modifiers.
+
+Intercept
+
+**Trigger:** an enemy model moves within 2″ of the reacting model at any point of a MOVE, RUN, CHARGE or FALL BACK.
+
+The model makes 1 attack with one of its weapons, its ATK worsened by 1. The attack is resolved like a ranged attack: the target makes only a defence roll and cannot strike back. Resolve it at once, then the enemy continues its move if it can.
+
+Reaction Shot
+
+**Trigger:** an enemy model comes within 8″ of the reacting model at any point of a MOVE, RUN, CHARGE or FALL BACK.
+
+Make a Ranged Attack against the triggering model with ATK reduced by 1 (minimum 1) and HTV worsened by 1 (minimum 6+).
+
+![](media/image/dg_overwatch.png)
+
+**Fig. 3.3** B runs along the lane. The moment it comes within 8″ of A, A may make a Reaction Shot. Then B finishes its run, if it still can.
+
+Example Reaction Shot
+
+The Marksman with a Bow (RNG 14″, ATK 3, HTV 3+) went on OVERWATCH last activation. An Orc Brute declares a RUN across the lane.
+
+1.  The trigger is met when the Orc comes within 8″ of the Marksman. The Marksman declares a Reaction Shot.
+2.  ATK 3 − 1 = 2 dice, HTV 3+ worsened to 4+. The Marksman rolls \[5\] \[2\]: one success.
+3.  The Orc rolls its Defense Dice as usual, damage is applied, and then the Orc finishes its run.
+
+The Marksman’s Overwatch ends after this Reaction.
+
+Example Retreat breaks a charge
+
+The Swordsman (MOV 5″) charges a Skeleton Warrior on Overwatch 5″ away. CHARGE allows up to 7″.
+
+1.  The Skeleton declares Retreat and rolls D3 + 1: \[5\] reads as 3 on a D3, so it moves 4″ straight back.
+2.  The Swordsman had 7″ for the whole charge. 5″ to the old position plus 4″ is 9″, more than it has.
+3.  The charge fails: the Swordsman ends its move 7″ toward the target, not in Base Contact.
+
+The CHARGE action is spent, and the Swordsman has no FIGHT this activation.
+
+Reactions reward position: keep an eye on your remaining ACT and on your opponent’s next move.
 
 ## Sight & Targeting
 
-To perform certain actions such as ranged attacks, a model must be able to see its target.
+**At a glance**
 
-1.  Line of Sight
+- A model sees a target if any part of it is visible and it is not Hidden. Models see all around and through friends.
+- **Cover:** within 1″ of terrain and mostly hidden by it. Improves SAV by 1 against ranged attacks. No Cover against an attacker within 2″.
+- **Hidden:** HIDE in Cover and out of every enemy’s sight. Cannot be targeted except from Base Contact.
 
-A model is considered within Line of Sight (LoS) of a target if:
+Some actions, ranged attacks above all, need the model to see its target.
 
-1.  The target is at least partially visible.
-2.  The target is not Hidden.
+**Line of Sight**
 
-Models have a 360° field of view and may see through friendly models.
+A model has Line of Sight (LoS) to a target if the target is at least partly visible and not Hidden. Models see all around them (360°) and see through friendly models.
 
-1.  Visibility
+### Checking visibility
 
-To determine visibility, look from behind the attacking model. If you can trace a clear, unobstructed line from its head to any part of the target’s body, the target is visible.
+Look from behind the attacking model. If you can trace a clear, unobstructed line from its head to any part of the target’s body, the target is visible.
 
-1.  Cover
+Use the model’s base as the reference for Line of Sight and Cover. Ignore decorative parts and anything that sticks out over the base.
 
-A model is in Cover if the following conditions are met:
+### Cover
 
-- It is within 1″ of a terrain feature (small or large),
-- The majority of its volume is obscured by that feature from the attacker‘s perspective.
+A model is in **Cover** if both are true:
 
-Cover provides defensive advantages. However, models within 2″ of an attacker cannot benefit from Cover due to close proximity.
+- it is within 1″ of a terrain feature, small or large, and
+- most of its volume is hidden by that feature, seen from the attacker.
 
-- Use the base size of a model as the reference for determining Line of Sight and Cover. Ignore decorative elements or overhanging parts of the miniature.
+Models within 2″ of an attacker gain no Cover from it: they are too close.
 
-##### Defense Bonus
+**Cover bonus**
 
-A model in Cover improves its SAV by 1 (to a minimum of 2+) against Ranged Attacks. Cover never grants more than this, whatever its source.
+A model in Cover improves its SAV by 1 (to a minimum of 2+) against Ranged Attacks. Cover never gives more than this, whatever its source.
 
-##### Hidden
+![](media/image/dg_los.png)
 
-If a model performs Hide while it is in Cover and outside the Line of Sight of every enemy model, it becomes Hidden. A Hidden model cannot be targeted by enemies not in Base Contact.
+**Fig. 3.5** The shooter **S** aims at three targets. **1** stands in the open. **2** stands behind the low wall: it is in Cover. **3** is out of Line of Sight behind the house: it cannot be targeted at all.
 
-It stays Hidden until it moves or performs an action that is not compatible with Hide.
+### Hidden
 
-- Hidden models can control objectives.
+![](media/image/dg_hidden.png)
 
-Model is in LoS and has no cover, because it is only partially obscured.
+**Fig. 3.6** The rogue **R** is in Cover and out of Line of Sight of **A**: it can become Hidden. Enemy **B** stands in Base Contact and may still target it.
 
-![](media/image/no_cover.png)
+If a model performs HIDE while it is in Cover and outside the Line of Sight of every enemy model, it becomes Hidden. A Hidden model cannot be targeted by enemies that are not in Base Contact with it.
 
-Model is in LoS and has cover, because the majority of it is obscured.
+It stays Hidden until it moves or performs an action that is not compatible with HIDE.
 
-![](media/image/cover.png)
+Hidden models can still control objectives.
 
-No LoS because the model is in cover and hidden.
+Example Going into hiding
 
-![](media/image/hidden2-04.png)
+A Goblin scout ends a MOVE behind a ruined wall, within 1″ of it. No enemy can see any part of it.
+
+1.  With its second ACT it uses HIDE. It is in Cover and out of every enemy’s sight, so it becomes Hidden.
+2.  In the enemy’s activation, a Crossbowman walks around the wall and now sees the Goblin. It stays Hidden: it has not moved or acted, and Hidden only ends by its own actions.
+3.  Next turn the Goblin MOVEs. Hidden ends.
+
+Only an enemy in Base Contact could have attacked it while it was Hidden.
 
 ## Movement
 
-There are different types of movement that may alter the total distance a model can travel or the way it interacts with terrain and other models. Unless stated otherwise, a model may move a number of inches equal to its MOV characteristic.
+**At a glance**
 
-##### Climb
+- A model moves up to its MOV in inches per movement action.
+- Climb costs 1″ extra and needs a ladder or rope. Jump gaps up to half MOV. Traverse low obstacles for 2″. Drop 2″ for free.
+- **Base Contact:** bases touch or are within 1″. Needed for close combat.
 
-Reduce movement by 1″ to climb vertically up or down. Unless stated otherwise, a climbing aid (e.g. ladder, rope) is required to perform a Climb.
+Unless stated otherwise, a model moves a number of inches up to its MOV. Some kinds of movement change how far it gets or how it deals with terrain and other models.
 
-##### Jump
+**Base Contact**
 
-Jump across a gap up to half the model’s MOV. This counts as part of normal movement.
+Two models are in Base Contact when their bases touch or are within 1″ of each other. Base Contact is required for Close Combat, and CHARGE, PUSH, INTERACT and many special rules refer to it.
 
-##### Traverse
+![](media/image/dg_charge.png)
 
-Move over an obstacle smaller than the model’s height by spending 2″ of movement.
+**Fig. 3.7** The Swordsman charges: the move is measured along the path from the front of its base and must end in Base Contact.
 
-##### Drop
+| Movement | Rule |
+|----|----|
+| **Climb** | Reduce movement by 1″ to climb up or down vertically. Unless stated otherwise, the model needs a climbing aid such as a ladder or rope. |
+| **Jump** | Jump across a gap of up to half the model’s MOV. Counts as part of normal movement. |
+| **Traverse** | Move over an obstacle lower than the model by spending 2″ of movement. |
+| **Drop** | Drop down up to 2″ without spending MOV. For a higher drop, roll a Defense Die for each inch above 2″: each failed roll causes 1 damage. |
+| **Push** | A move action. See below. |
+| **Run** | The RUN action doubles the model’s MOV for this move. It cannot be combined with other kinds of movement, except Jump or Push. |
+| **Fly, Teleport** | Models with the Fly or Teleport trait ignore all obstacles and terrain while moving. The move must start and end on open terrain. |
+| **Falling** | If a model falls by accident from more than 2″, roll a Defense Die for each inch above 2″. Each failed roll causes 1 damage. A roll of 1 also Stuns the model. |
+| **Jump Attack** | A model that CHARGEs from a height of up to 3″ and enters Base Contact as part of a Drop gains one additional critical hit in the following Close Combat. |
 
-You may drop down up to 2″ without spending MOV.
+![](media/image/dg_elevated.png)
 
-For heights above 2″, roll a Defense die for each additional inch. On a failed roll, suffer 1 damage per failed inch.
+**Fig. 3.8a** A ruined house with an upper floor. **1** the archer stands on Elevated Ground, **2** a fighter climbs the ladder, **3** a fighter on the ground.
 
-##### Push
+Example Up the ladder
 
-Move action. Push an enemy model of equal or smaller height up to 2" directly away.
+An Elf (MOV 5″) stands 1″ from a ladder that leads 3″ up to a ruined floor.
 
-You must begin not in Base Contact with the target and end in Base Contact with it.
+1.  Walk to the ladder: 1″.
+2.  Climb 3″ up: 3″ plus 1″ for climbing = 4″.
 
-The target rolls one Defense Die against its SAV. On a failure it is pushed. On a success the push fails and your move counts as a Charge in every respect; you are in Base Contact and may follow up with a Fight action as normal.
+Total 5″: one MOVE brings the Elf onto the floor. Without the ladder it could not climb at all.
 
-##### Run
+Example A long drop
 
-Use the Run action to double the model’s MOV value for this move.
+A Swordsman (SAV 4+) jumps down 4″ from a wall on purpose. The first 2″ are free. For the 2″ above that it rolls two Defense Dice: \[5\] \[2\]. One roll failed, so it takes **1 damage**.
 
-Cannot be combined with other movement types, except Jump or Push.
+Had the Swordsman been pushed off by accident, it would be a Fall: the same two dice, and a roll of \[1\] would also Stun it.
 
-1.  Fly / Teleport
+![](media/image/sp_climb.png)
 
-Models with the Fly or Teleport trait ignore all obstacles and terrain during movement. The model’s movement must start and end on open terrain.
+### Push
 
-1.  Falling
+![](media/image/sp_push.png)
 
-If a model falls unintentionally from a height over 2″, roll a Defense die for each inch above 2″.
+A move action. Push an enemy model of equal or smaller height up to 2″ directly away.
 
-Each failed roll causes 1 damage. A roll of 1 also Stuns the model.
+1.  The pushing model must start out of Base Contact with the target and end in Base Contact with it.
+2.  The target rolls one Defense Die against its SAV.
+3.  **On a failure** the target is pushed up to 2″ directly away.
+4.  **On a success** the push fails, and the move counts as a CHARGE in every respect: the models are in Base Contact and the pusher may follow up with a FIGHT as normal.
 
-1.  Base Contact
+![](media/image/dg_push.png)
 
-Two models are in Base Contact when their bases touch or are within 1″ of each other. Base Contact is required for Close Combat and is referenced by Charge, Push, Interact and many special rules.
-
-1.  Jump Attack
-
-When a model performs a Charge from a height of up to 3″ and enters Base Contact as part of a Drop, it gains an additional critical hit in the following Close Combat sequence.
+**Fig. 3.8** **P** is in Base Contact with **T**. T fails its Defense Die and is pushed 2″ straight back, over the edge of the platform: it falls.
 
 ## Terrain
 
-Terrain shapes the battlefield and influences every move your warriors make. It affects movement, line of sight, available actions, and cover.
+**At a glance**
 
-- Before the game begins, players must agree on the type and rules of each terrain piece used on the board. Consistent classification ensures fair and strategic gameplay.
-- Walls, Buildings, Large Rocks, etc. are impassable and block Line of Sight.
+- Agree on the type of every terrain piece before the game.
+- Walls, buildings and large rocks are impassable and block sight.
+- Nine terrain types, from Open Terrain to Dangerous Terrain, each with one short rule.
 
-| Open Terrain | Grass Fields, Roads, Open Plazas |
-|----|----|
-| ![](media/image/open_terrain.png) | No special effects. Models move normally and may be targeted without penalty. |
+Terrain shapes the battlefield and every move your warriors make. It affects movement, Line of Sight, the actions available and Cover.
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Small Objects</p></th>
-<th scope="col"><p>Barrels, Crates, Gravestones, Rubble Pile, Small Barricades</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="media/image/barrel_n_crate.png" /></td>
-<td><ul>
-<li>Objects ≤ 1″ high.</li>
-<li>Grants Cover.</li>
-<li>Can be <span>Traversed</span> without movement penalty.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+- Before the game, agree on the type and rules of every terrain piece. Consistent classification keeps the game fair.
+- Walls, buildings, large rocks and the like are impassable and block Line of Sight.
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Field Defenses</p></th>
-<th scope="col"><p>Barricades, Stone Wall Sections, Fallen Statues</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="media/image/ChatGPT_Image_3._Aug._2025,_16_31_55.png" /></td>
-<td><ul>
-<li>Objects smaller than the model’s height.</li>
-<li>Grants Cover.</li>
-<li>Can be <span>Traversed</span> by spending <span>2″</span> of movement.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+![](media/image/dg_terrain.png)
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Entryways</p></th>
-<th scope="col"><p>Doors, Gates, Grills, Windows</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="media/image/entryways.png" /></td>
-<td><ul>
-<li>Passable only when unlocked.</li>
-<li>Use the <span>INTERACT</span> action to lock or unlock.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+**Fig. 3.9** Four kinds of terrain: **1** rubble (Difficult Terrain), **2** mire (Difficult or Dangerous, as agreed), **3** barricade (Field Defense), **4** stone wall (impassable, blocks Line of Sight).
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Loot Sites</p></th>
-<th scope="col"><p>Treasure Chests, Weapon Racks, Supply Crates</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="media/image/loot_site.png" /></td>
-<td><p>Within <span>1</span>″, use Interact to se<span>arch. Ro</span>ll <span>D</span><span>6</span><span>6</span> on the Equipment Table.</p>
-<ul>
-<li>Once per object.</li>
-<li>Each mission defines which Loot Sites are available.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+|  | Type | Examples | Rule |
+|----|----|----|----|
+| <img src="media/image/open_terrain.png" width="40" /> | **Open Terrain** | Grass fields, roads, open plazas | No special effects. Models move normally and may be targeted without penalty. |
+| <img src="media/image/barrel_n_crate.png" width="40" /> | **Small Objects** | Barrels, crates, gravestones, rubble piles, small barricades | Objects up to 1″ high. Grant Cover. Can be Traversed without movement penalty. |
+| <img src="media/image/ChatGPT_Image_3._Aug._2025,_16_31_55.png" width="40" /> | **Field Defenses** | Barricades, stone wall sections, fallen statues | Lower than the model. Grant Cover. Can be Traversed by spending 2″ of movement. |
+| <img src="media/image/entryways.png" width="40" /> | **Entryways** | Doors, gates, grills, windows | Passable only when unlocked. Use INTERACT to lock or unlock. |
+| <img src="media/image/loot_site.png" width="40" /> | **Loot Sites** | Treasure chests, weapon racks, supply crates | Within 1″, use INTERACT to search. Roll D66 on the Equipment Table. Once per object. Each mission defines which Loot Sites are available. |
+| <img src="media/image/elevated_terrain.png" width="40" /> | **Elevated Ground** | Upper floors, roofs, hills, towers, lookouts | At least 3″ above ground level. Models standing here gain the TAKE AIM special action. |
+| <img src="media/image/ChatGPT_Image_3._Aug._2025,_19_33_09.png" width="40" /> | **Climbing Gear** | Ladders, ropes | Models may climb up or down by spending 1″ of movement. |
+| <img src="media/image/ChatGPT_Image_3._Aug._2025,_21_08_43.png" width="40" /> | **Difficult Terrain** | Woods, shallow water, swamp, rubble, thick undergrowth | Models cannot use RUN while moving through it. |
+| <img src="media/image/ChatGPT_Image_3._Aug._2025,_19_37_25.png" width="40" /> | **Dangerous Terrain** | Deadly or poisonous plants, quicksand, flames | Models cannot use RUN while moving through it. A model takes D3 Fatal Damage per movement action. |
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Elevated Ground</p></th>
-<th scope="col"><p>Upper Floor, Roof, Hill, Tower, Lookout</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="media/image/elevated_terrain.png" /></td>
-<td><ul>
-<li>At least <span>3″</span> above ground level.</li>
-<li>Models standing here gain access to the <span>TAKE AIM</span> special action.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Example Agreeing on terrain
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Climbing Gear</p></th>
-<th scope="col"><p>Ladders, Ropes</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="media/image/ChatGPT_Image_3._Aug._2025,_19_33_09.png" /></td>
-<td><ul>
-<li>Models may climb up or down by spending<span> 1"</span> of movement.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Before the game the players go through the table piece by piece: the ruined house is impassable and blocks sight, its upper floor is Elevated Ground with a ladder as Climbing Gear, the stone wall sections are Field Defenses, the barrels are Small Objects, the dead wood is Difficult Terrain, and the chest in the square is a Loot Site.
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Difficult Terrain</p></th>
-<th scope="col"><p>Woods, Shallow Waters, Swamp, Rubble, Thick Undergrowth</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="media/image/ChatGPT_Image_3._Aug._2025,_21_08_43.png" /></td>
-<td><ul>
-<li>Models cannot use the <span>RUN</span> action while moving through this terrain.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Dangerous Terrain</p></th>
-<th scope="col"><p>Deadly or Poisonous Vegetation, Quick Sand, Flames</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="media/image/ChatGPT_Image_3._Aug._2025,_19_37_25.png" /></td>
-<td><ul>
-<li>Models cannot use the <span>RUN</span> action while moving through this terrain.</li>
-<li>Model takes <span>D3</span> <span>Fatal Wounds</span> per movement action.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Two minutes of agreement save every argument later.
 
 ## Close Combat
 
-The model that declares a Fight action and begins this sequence in Base Contact is the Attacker; the opposing model is the Defender.
+**At a glance**
 
-1.  Engage
+- Both models roll their Attack Dice, plus Block Dice from shields. The Attacker rolls one extra Attack Die. Hits on HTV or more, a 6 is critical.
+- Then spend one die at a time, Attacker first: **Strike** (deal damage; a normal Strike allows an Armor Save, a critical ignores armor), **Parry** (cancel an enemy success with an Attack Die), **Block** (cancel an enemy success with a Block Die of equal or higher value).
+- A Strike cannot be undone. Spend your best die first.
 
-Choose one enemy model in Base Contact (1″). It becomes the Defender.
+The model that declares a FIGHT action while in Base Contact is the **Attacker**. The enemy it fights is the **Defender**. Both models fight: either of them can deal damage.
 
-1.  Choose Weapons
+### The close combat sequence
 
-Each player picks one Close Combat weapon profile for their model (Type close).
+1.  **Engage.** The Attacker chooses one enemy model in Base Contact (1″). It becomes the Defender.
+2.  **Choose weapons.** Each player picks one close combat weapon profile for their model.
+3.  **Roll dice.** Both players roll their Attack Dice and their Block Dice, kept apart. The Attacker rolls one extra Attack Die.
+4.  **Resolve dice.** Spend one die at a time, Attacker first, alternating, until all successes are spent or a model is Defeated.
 
-If a model has no melee weapon, use the\
-Unarmed profile.
+### 1 · Engage
 
-##### Main and Off-hand weapon
+![](media/image/dg_basecontact.png)
 
-A model equipped with two Close Combat weapons may attack with both. The player must declare beforehand which weapon is the main hand and which is the off hand. The off-hand weapon may only perform 1 ATK.
+**Fig. 3.9** Base Contact. **1** The Swordsman’s base touches the Orc’s: they are in Base Contact (1″). **2** A second Swordsman stands a gap away and is not.
 
-##### Unarmed:
+Choose one enemy model in Base Contact with the Attacker. It becomes the Defender.
 
-Models without a Close Combat weapon may use the following Unarmed Profile in Close Combat, representing their fists or makeshift weapon.
+### 2 · Choose weapons
 
-| name    | RNG | ATK | htv | DMG | crt |
-|---------|-----|-----|-----|-----|-----|
-| Unarmed | 1″  | 2   | 5+  | 1   | 1   |
+Each player picks one close combat weapon profile (type close) for their model.
 
-1.  Roll Dice
+#### Main hand and off hand
 
-Both players roll their Attack Dice and, if they have any, their Block Dice. Keep the two kinds separate.
+A model with two close combat weapons may attack with both. Declare first which is the main hand and which the off hand. The off-hand weapon makes only 1 ATK.
 
-- A roll of 6 is always a critical success and may trigger additional rules.
-- A roll of 1 is always a failure and may trigger additional rules.
-- Dice that are not successful are removed.
+#### Unarmed
 
-##### Attack Dice
+A model without a close combat weapon fights with the Unarmed profile: fists or whatever lies at hand.
 
-- Roll a number of D6 equal to the weapon’s ATK.
-- A result equal to or higher than the weapon's HTV is a normal success. A 6 is a critical success.
-- A successful Attack Die is spent either to Strike or to Parry (see Resolve Dice).
+| Profile     | RNG | ATK | HTV | DMG | CRT |
+|-------------|-----|-----|-----|-----|-----|
+| **Unarmed** | 1″  | 2   | 5+  | 1   | 1   |
 
-##### Block Dice
+### 3 · Roll dice
 
-- Bonus dice granted by Armor, Shields or other rules. They have no HTV; the number rolled is what counts.
-- A Block Die is spent only to block an enemy success (see Resolve Dice). It can never Strike.
+Both players roll their Attack Dice and, if they have any, their Block Dice. Keep the two kinds apart.
 
-##### Retained Dice
+**Attacker’s Advantage**
 
-Some rules let a model retain a die as a normal success without rolling it. A retained Attack Die counts as showing the weapon's HTV.
+The Attacker rolls one additional Attack Die with its main-hand weapon.
 
-##### Assist:
+- A 6 is always a critical success and may trigger additional rules.
+- A 1 is always a failure and may trigger additional rules.
+- Dice that do not succeed are removed.
 
-Each friendly model that is also in Base Contact with the Defender improves the Attacker's HTV by 1 (to a minimum of 2+).
+| Die | How many | Success | Used for |
+|----|----|----|----|
+| **Attack Die** \[4\] | The weapon’s ATK. | HTV or higher. A 6 is critical. | Strike or Parry. |
+| **Block Die** \[5\] | Bonus dice from Shields or other rules. | No HTV: the number rolled is what counts. | Block only. It can never Strike. |
 
-1.  Resolve Dice
+#### Retained dice
 
-The Attacker spends one die first. Players then alternate, spending one die at a time, until every successful die has been spent or a model is Defeated. A die is spent in one of three ways:
+Some rules let a model keep a die as a normal success without rolling it. A retained Attack Die counts as showing the weapon’s HTV.
 
-Strike: Spend a successful Attack Die to deal damage. A normal success inflicts the weapon's DMG. A critical success inflicts the weapon's CRT, and the Defender rolls on the Critical Injuries table immediately.
+**Assist**
 
-Parry: Spend a successful Attack Die to cancel one of your opponent's unspent successes. A normal success cancels a normal success; a critical success cancels any success. Both dice are removed.
+Each friendly model that is also in Base Contact with the Defender improves the Attacker’s HTV by 1 (to a minimum of 2+).
 
-Block: Spend a Block Die to cancel one of your opponent's unspent successes of equal or lower value. Both dice are removed. A Block Die showing a 6 can therefore block a critical success. Block Dice can only be spent this way.
+### 4 · Resolve dice
 
-- Damage from a Strike is applied at once. A die that has been spent to Strike can no longer be parried or blocked.
-- If one player runs out of dice, the other player spends all remaining dice in any order.
+The Attacker spends one die first. Then the players alternate, one die at a time, until every success has been spent or a model is Defeated. A die is spent in one of three ways:
+
+Strike
+
+Spend a successful Attack Die to deal damage. A normal success deals the weapon’s DMG unless the struck model makes its Armor Save. A critical success deals its CRT, and the struck model rolls on the Critical Injuries table at once.
+
+Parry
+
+Spend a successful Attack Die to cancel one unspent enemy success. A normal success cancels a normal success. A critical success cancels any success. Both dice are removed.
+
+Block
+
+Spend a Block Die to cancel one unspent enemy success of equal or lower value. Both dice are removed. A Block Die showing 6 can block a critical success. Block Dice can only be spent this way.
+
+- Damage from a Strike is applied at once. A die spent to Strike can no longer be parried or blocked.
+- If one player runs out of dice, the other spends all of their remaining dice in any order.
 - A model reduced to 0 Vitality is Defeated and removed from the game.
 
-1.  Traits
+**Armor Save**
 
-Some important Traits that affect combat.
+Each time a normal success is spent to Strike, the struck model rolls one die. On a result equal to or higher than its SAV, the Strike deals no damage. A critical success cannot be saved: it deals CRT and causes a roll for Critical Injuries.
 
-##### \
+Example A full exchange
 
-##### Buckler:
+Both models have HTV 4+ and ATK 3. Player 1 is the Attacker, so it rolls one extra Attack Die, and it has a Shield. Player 2 has no Block Dice.
 
-Grants 1 Block Die. It cannot block critical success.
+Player 1Attack \[6\] \[4\] \[2\] \[1\] · Block \[5\] Player 2Attack \[5\] \[5\] \[3\]
 
-##### Shield:
+The \[2\], the \[1\] and the \[3\] are failures and are removed.
 
-Grants 1 Block Die.
+1.  Player 1 **Strikes** with the \[6\]: a critical hit. A critical ignores armor: Player 2 takes CRT damage and rolls for Critical Injuries. The 6 is spent and can no longer be parried.
+2.  Player 2 **Parries** Player 1’s \[4\] with a \[5\]. Normal cancels normal, both dice are removed.
+3.  Player 1 **Blocks** Player 2’s remaining \[5\] with the Block Die \[5\]. Equal value, so the block works. Both dice are removed. A Block Die showing 4 could not have blocked the 5.
 
-##### Medium Armor:
+No dice remain. Player 1 dealt one critical hit, Player 2 dealt nothing. Spending your best die first denies the opponent the chance to parry it.
 
-Grants 1 Block Die.
+Example The Orc charges
 
-##### Heavy Armor:
+An Orc Brute (VIT 12, Tough, Great Axe: ATK 3, HTV 3+, DMG 2, CRT 4, Cleave) charges the Swordsman (VIT 10, Sword: ATK 3, HTV 4+, DMG 2, CRT 3; Chainmail SAV 4+, Shield gives 1 Block Die). The Orc wears Thick Hide (SAV 5+). The charge gives it +1 ATK and Attacker’s Advantage one more Attack Die, so it rolls 3 + 1 + 1 = 5 Attack Dice.
 
-Grants 1 Block Die. Roll 2 Dice and keep the higher result.
+OrcAttack \[6\] \[5\] \[3\] \[2\] \[1\] SwordsmanAttack \[6\] \[4\] \[2\] · Block \[5\]
 
-##### Master Parry:
+1.  **Cleave.** The Orc keeps a critical success, so it may upgrade one normal success: its \[5\] becomes a critical. It now has \[6\] \[5\] \[3\].
+2.  The Orc **Strikes** with a critical: 4 damage, no Armor Save. The Swordsman drops to 6 VIT and rolls on the Critical Injuries table: \[5\], a flesh wound with no effect.
+3.  The Swordsman **Parries** the Orc’s other critical with its own \[6\]. Only a critical can parry a critical, so this is its best use of it.
+4.  The Orc **Strikes** with the \[3\], a normal success. The Swordsman makes its Armor Save and rolls \[4\], equal to its SAV 4+: the Strike deals no damage. Its Block Die \[5\] could have stopped the 3 too, but the Orc spent it first.
+5.  The Swordsman **Strikes** with its \[4\]. The Orc rolls \[3\] against its SAV 5+ and fails: 2 damage, reduced by 1 for Tough. The Orc is at 11 VIT. The Swordsman’s Block Die has nothing left to block.
 
-1 normal success may parry 1 enemy crit.
+The Swordsman lost 4 VIT, the Orc 1. The Chainmail saved 2 VIT. Block Dice only help if the enemy still has unspent successes when your turn to spend comes.
 
-##### Guard
+Example Assist
 
-Any or all Block Dice may be re-rolled once.
+The Swordsman and the Captain both stand in Base Contact with a Skeleton Warrior. The Swordsman declares FIGHT. The Captain assists: the Swordsman’s HTV improves from 4+ to 3+. Had a second friend also been in Base Contact, it would improve to 2+, the minimum.
 
-##### Cleave
+### Traits that change close combat
 
-If you retain at least one critical success, you may upgrade one normal success to a critical success.
+| Trait | Effect |
+|----|----|
+| **Buckler** | Grants 1 Block Die. It cannot block a critical success. |
+| **Shield** | Grants 1 Block Die. |
+| **Master Parry** | 1 normal success may parry 1 enemy critical. |
+| **Guard** | Once per Close Combat, this model may re-roll one of its Attack Dice or Block Dice. A re-rolled Attack Die can only be spent to Parry. |
+| **Cleave** | If you keep at least one critical success, you may upgrade one normal success to a critical success. |
+| **First Strike** | When resolving dice, this model spends the first die. Then alternate as normal. |
 
-##### First Strike:
+Example Master Parry
 
-During Resolve Dice, this model spends the first die. Alternate as normal afterwards.
-
-Example:
-
-Both models have HTV 4+. Player 1, the Attacker, rolls 3 Attack Dice showing 6, 4 and 2, and 1 Block Die from a Shield showing 5. Player 2 rolls 3 Attack Dice showing 5, 5 and 3. The 2 and the 3 are failures and are removed.\
-\
-1. Player 1 Strikes with the 6: a critical hit. Player 2 suffers CRT damage and rolls for Critical Injuries. The 6 is spent and can no longer be parried.\
-2. Player 2 Parries Player 1's 4 with a 5. Normal cancels normal; both dice are removed.\
-3. Player 1 spends the Block Die (5) to block Player 2's remaining 5. Equal value, so the block is allowed; both dice are removed. Had the Block Die shown a 4, it could not have blocked the 5.\
-\
-No dice remain. Player 1 has dealt one critical hit, Player 2 no damage. Spending your best die first denies the opponent the chance to parry it.
+The Swordsman’s Sword has Master Parry. Against the Orc above, the Swordsman could have parried the Orc’s second critical with its normal \[4\] and kept its \[6\] for a 3-damage critical Strike that ignores the Orc’s armor.
 
 ## Ranged Combat
 
-The model that declares a Shoot action is the Attacker; the chosen target is the Defender.
+**At a glance**
 
-1.  Select Weapon
+- Pick a weapon and a visible target in range, at least 2″ away. If a legal target is within 8″, you must shoot the closest one.
+- Attacker rolls ATK against HTV. Defender rolls three Defense Dice against SAV and cancels hits: a critical cancels any hit, a normal cancels a normal, two normals cancel a critical.
+- Remaining hits deal DMG, criticals deal CRT and cause a Critical Injury roll. Beyond 8″ the HTV is worsened by 1.
 
-The Attacker chooses one of the model’s ranged weapon profiles (Type range).
+The model that declares a SHOOT action is the **Attacker**. Its target is the **Defender**.
 
-1.  Acquire Target
-    - The Attacker selects a target in the model’s Line of Sight and within the weapon’s maximum range.
-    - The target needs to be at least 2" away.
-    - The target becomes the Defender.
+### The ranged combat sequence
 
-##### Nearest Foe
+1.  **Select weapon.** Choose one ranged weapon profile (type range).
+2.  **Acquire target.** A target in Line of Sight, within range, at least 2″ away. Mind Nearest Foe.
+3.  **Roll Attack Dice.** ATK dice against HTV.
+4.  **Roll Defense Dice.** Three Defense Dice against SAV.
+5.  **Resolve Defense Dice.** The Defender cancels hits.
+6.  **Deal damage.** The Attacker resolves the hits that are left.
 
-If any enemy model within 8" is a legal target (in Line of Sight, not Hidden, within the weapon's range), the Attacker must target the closest such enemy. Enemies that are not legal targets are ignored for this rule.
+### 1 · Select weapon
 
-1.  Roll Attack Dice
-    - The Attacker rolls a number of D6 equal to the weapon’s ATK value.
-    - A result ≥ HTV is a normal success.
-    - A 6 is a critical success and may trigger additional rules.
-    - A roll of 1 is an automatic fail and may trigger additional rules.
-    - Dice that are not successful are removed.
-2.  Roll Defense Dice
-    - The Defender rolls a number of D6 equal to his DEF value.
-    - A result ≥ SAV is a normal success.
-    - A 6 is a critical success and may trigger additional rules.
-    - A roll of 1 is an automatic fail and may trigger additional rules.
-    - Dice that are not successful are removed.
-3.  Resolve Defense Dice
+The Attacker chooses one of the model’s ranged weapon profiles (type range).
 
-The Defender spends their successful dice first:
+### 2 · Acquire target
 
-- Critical success: Discards one of the Attacker’s normal or critical successes.
-- Normal success: Discards one normal success. Two normal successes together may discard one critical success.
+- The target must be in the model’s Line of Sight and within the weapon’s maximum range.
+- The target must be at least 2″ away.
+- The target becomes the Defender.
 
-After each Defense Die is spent, remove it.
+**Nearest Foe**
 
-1.  Deal Damage
+If any enemy model within 8″ is a legal target (in Line of Sight, not Hidden, within the weapon’s range), the Attacker must target the closest such enemy. Enemies that are not legal targets are ignored for this rule. NPCs and Structures are ignored for this rule too.
 
-The Attacker resolves all remaining successful Attack Dice:
+### 3 · Roll Attack Dice
 
-- A normal success inflicts damage equal to the weapon’s DMG value.
-- A critical success inflicts damage equal to the weapon’s CRT value and the model needs to roll for Critical Injuries immediately.
+- The Attacker rolls as many D6 as the weapon’s ATK.
+- A result of HTV or higher is a normal success. A 6 is a critical success and may trigger additional rules.
+- A 1 is always a failure and may trigger additional rules.
+- Dice that do not succeed are removed.
 
-Reduce the Defender’s Vitality accordingly. A model whose Vitality is reduced to 0 is Defeated and removed from the game.
+### 4 · Roll Defense Dice
 
-1.  Traits
+**Defense Dice.** Each model rolls three Defense Dice when defending in Ranged Combat. A model with Stalwart rolls one additional Defense Die.
 
-Some important Traits and Rules that affect combat.
+- A result of SAV or higher is a normal success. A 6 is a critical success and may trigger additional rules.
+- A 1 is always a failure and may trigger additional rules.
+- Dice that do not succeed are removed.
 
-##### Cover
+### 5 · Resolve Defense Dice
 
-Defender's SAV improved by 1 (min 2+).
+The Defender spends its successes first:
 
-##### Shoot into Combat
+- **Critical success:** discards one of the Attacker’s normal or critical successes.
+- **Normal success:** discards one normal success. Two normal successes together may discard one critical success.
 
-If the targeted Defender is in Base Contact with a friendly model, all failed attack dice must be rerolled.
+Remove each Defense Die after it is spent.
 
-These rerolled dice are now resolved against the friendly model instead.
+### 6 · Deal damage
 
-##### Take Aim
+- Each remaining normal success deals the weapon’s DMG.
+- Each remaining critical success deals the weapon’s CRT, and the model rolls for Critical Injuries at once.
 
-If a model is positioned on Elevated Terrain, it may declare the Take Aim action before shooting. See Special Actions on page 24 for details.
+Reduce the Defender’s Vitality. A model at 0 Vitality is Defeated and removed from the game.
 
-##### Armor Piercing
+Example An arrow at 10″
 
-The Defender's SAV value is worsened by 1 (to a minimum of 6+).
+An Archer with a Long Bow (RNG 18″, ATK 3, HTV 3+, DMG 2, CRT 3, Armor Piercing) shoots an Orc Brute 10″ away (Leather SAV 5+, VIT 12, Tough).
 
-##### Armor Shatter
+1.  **Range.** The target is more than 8″ away: HTV 3+ becomes 4+.
+2.  **Attack.** \[6\] \[4\] \[2\]: one critical, one normal success.
+3.  **Defense.** Armor Piercing worsens the Orc’s SAV from 5+ to 6+. The Orc rolls \[6\] \[5\] \[1\]: one critical success.
+4.  **Resolve.** The Orc’s critical discards the Archer’s critical, the bigger threat.
+5.  **Damage.** The normal hit deals 2, Tough reduces it to 1.
 
-Defender rolls one Defense Die fewer (min 1) and SAV worsened by 1 (min 6+).
+The Orc drops from 12 to 11 VIT. Without Armor Piercing its 5 would have saved the normal hit too.
 
-##### Cleave
+Example Two normals against a critical
 
-If you retain at least one critical success, you may upgrade one normal success to a critical success.
+The Swordsman (SAV 4+) is hit by \[6\] \[4\]. It rolls \[5\] \[4\] \[2\]. It may spend both normal successes together to discard the critical. The normal hit still gets through. Or it spends one normal on the normal hit and takes the critical. It chooses the first: 2 damage instead of 3 plus a Critical Injury roll.
 
-1.  Effective Range
+### Traits and rules that change ranged combat
 
-Ranged weapons are less accurate at extreme distances.
+| Rule | Effect |
+|----|----|
+| **Cover** | The Defender’s SAV is improved by 1 (minimum 2+). See Cover. |
+| **Shoot into Combat** | If the Defender is in Base Contact with a friendly model, all failed Attack Dice must be re-rolled. The re-rolled dice are resolved against the friendly model instead. |
+| **Take Aim** | A model on Elevated Ground may declare TAKE AIM before shooting. See Special Actions. |
+| **Armor Piercing** | The Defender’s SAV is worsened by 1 (to a minimum of 6+). |
+| **Armor Shatter** | The Defender rolls one Defense Die fewer (minimum 1), and its SAV is worsened by 1 (minimum 6+). |
+| **Cleave** | If you keep at least one critical success, you may upgrade one normal success to a critical success. |
 
-When making a Ranged Attack against a target more than 8" away, the attacker's HTV is worsened by 1.
+**Effective Range**
 
-Only weapons are affected. Magical spells do not suffer a HTV penalty.
+Ranged weapons lose accuracy at long distance. Against a target more than 8″ away, the Attacker’s HTV is worsened by 1. This applies to weapons only. Spells suffer no HTV penalty.
 
-1.  Misfire Table
+Example Shooting into a melee
 
-When a weapon with the Black Powder or Warp Tech trait requires a Misfire check, roll 1D6 and consult the table below:
+A Crossbowman (HTV 4+) shoots an Orc that is in Base Contact with a friendly Swordsman. The Crossbowman rolls \[5\] \[3\] \[1\]. Both failed dice must be re-rolled: \[4\] \[2\]. The 4 is now a hit against **its own Swordsman**, who rolls Defense Dice against it as usual.
 
-| D6 | Name | Description |
+### Misfire table
+
+When a weapon with the Black Powder or Warp Tech trait calls for a Misfire check, roll 1D6:
+
+| D6 | Result | Effect |
 |----|----|----|
-| 1 | Flashback | Burning powder ignites the wielder. The wielder suffers D3 Fatal Wounds and gains the Burning status effect. |
-| 2-3 | Jammed | The mechanism is fouled. Requires two INTERACT actions to clear the blockage and reload. |
-| 4-6 | Minor Spark | The shot fails. May reload normally with one INTERACT action. |
+| 1 | **Flashback** | Burning powder ignites the wielder. The wielder suffers D3 Fatal Damage and gains the Burning status effect. |
+| 2–3 | **Jammed** | The mechanism is fouled. Two INTERACT actions are needed to clear it and reload. |
+| 4–6 | **Minor Spark** | The shot fails. Reload normally with one INTERACT action. |
 
 ## Vitality
 
-Each model has a Vitality (VIT) characteristic, representing its total health. Whenever a model suffers damage, reduce its VIT accordingly.
+**At a glance**
 
-1.  Fatal Damage
+- Damage lowers VIT. At 0 the model is Defeated and removed.
+- Fatal Damage cannot be blocked or saved.
+- Every critical hit that deals damage means a roll on the Critical Injuries table. Healing to full VIT removes the injuries.
 
-Fatal Damage cannot be blocked and ignores Defense throws.
+Each model has a Vitality (VIT) characteristic: its total health. Whenever it suffers damage, reduce its VIT by that amount.
 
-1.  Defeated
+|  |  |
+|----|----|
+| **Fatal Damage** | Cannot be blocked or saved: no Block Die, no Defense roll, no Armor Save. |
+| **Defeated** | A model is Defeated when its VIT drops to 0 or less. Remove it from the game at once. |
+| **Healing** | A model can be healed, but never above its starting VIT. If it is healed to full VIT, remove any Critical Injuries it suffered in this game. |
 
-A model is Defeated when its VIT is reduced to 0 or less. Remove it from the game immediately.
+### Critical Injuries
 
-1.  Healing
-    - A model can be healed, but not beyond its starting VIT value.
-    - If a model is healed to full VIT, remove any Critical Injuries it suffered during the game.
-2.  Critical Injuries
+![](media/image/sp_injury.png)
 
-Whenever a model suffers damage from a critical hit in combat, roll on the Critical Injuries Table. Apply the result immediately.
+Whenever a model suffers damage from a critical hit in combat, roll on the Critical Injuries table and apply the result at once.
 
-- Each injury effect lasts for the remainder of the game.
-- A model can only suffer each type of critical injury once per game.
-- In campaign play, roll on the Injured Models Table after the mission to determine if the injury persists.
+- Each injury lasts for the rest of the game.
+- A model can suffer each type of injury only once per game.
+- In a campaign, roll on the Injured Models table after the mission to see whether an injury stays (see Campaign Rules).
 
-1.  Critical Injuries Table
+| D6 |  | Injury | Effect |
+|----|----|----|----|
+| 1 | <img src="media/image/head-injury.png" width="40" /> | **Head** | HTV worsened by 1 |
+| 2 | <img src="media/image/arm-injury.png" width="40" /> | **Arm** | ATK −1 |
+| 3 | <img src="media/image/leg-injury.png" width="40" /> | **Leg** | MOV −1 |
+| 4–6 |  | **Flesh wound** | No effect |
 
-| D6    | Type       | Effect            |
-|-------|------------|-------------------|
-| 1     | Head       | HTV worsened by 1 |
-| 2     | Arm        | ATK -1            |
-| 3     | Leg        | MOV -1            |
-| 4 - 6 | Fleshwound | none              |
+**Helmet:** ignore a result of 1 (Head) on the Critical Injuries table.
 
-- Use tokens or a marker to track active injuries.
+Use tokens or a marker to track injuries.
 
-##### Helmet
+Example Wounded, then healed
 
-Ignore results of 1 (Head) on the Critical Injuries Table.
+The Swordsman (VIT 10) takes a critical hit for 3 damage and rolls \[2\]: Arm Injury, its ATK drops by 1. Later it takes 4 more damage: 3 VIT left.
+
+1.  A friend uses HEAL on it: 2D3 rolls \[6\] \[5\], read as 3 + 3 = 6 VIT. The Swordsman is at 9.
+2.  A second HEAL in another activation gives 2D3 = 3. It would reach 12, but healing stops at its starting VIT of 10.
+3.  It is back at full VIT, so the Arm Injury is removed.
+
+Full healing undoes the injuries of this game.
 
 ## Status Effects
 
-Certain rules, attacks, or spells may inflict lasting conditions on a model. These are called Status Effects. Each effect alters the model’s capabilities until removed.
+![](media/image/sp_heal.png)
 
-- Status effects remain on a model until removed by a rule or an Action.
+**At a glance**
+
+- Status effects stay until a rule or an action removes them.
+- A model cannot have the same status twice.
+- RECOVER removes Stunned, Burning, Frozen and Fearful. CLEANSE removes all six. HEAL removes Poisoned.
+
+Some rules, attacks and spells leave lasting conditions on a model: status effects. Each changes what the model can do until it is removed.
+
+- Status effects remain until a rule or an action removes them.
 - A model cannot be affected by the same status effect more than once.
 
-<table>
-<thead>
-<tr>
-<th></th>
-<th scope="col"><p>Effect</p></th>
-<th scope="col"><p>Removed by</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="media/image/stunned.png" /></td>
-<td><p><span>Stunned</span></p>
-<p>Can only perform <span>RECOVER</span> or <span>PASS</span>.</p></td>
-<td><p><span>RECOVER<br />
-CLEANSE</span></p></td>
-</tr>
-<tr>
-<td><img src="media/image/burning.png" /></td>
-<td><p><span>Burning</span></p>
-<p>Suffers <span>1</span><span>D</span><span>3</span> <span>Fatal Damage</span> at the start of each turn.</p></td>
-<td><p><span>RECOVER<br />
-CLEANSE</span></p></td>
-</tr>
-<tr>
-<td><img src="media/image/frozen.png" /></td>
-<td><p><span>Frozen</span></p>
-<p><span>Movement</span> is reduced by <span>2</span>".</p></td>
-<td><p><span>RECOVER<br />
-CLEANSE</span></p></td>
-</tr>
-<tr>
-<td><img src="media/image/fearful.png" /></td>
-<td><p><span>Fearful</span></p>
-<p>HTV worsened by <span>1</span> for all attacks.</p></td>
-<td><p><span>RECOVER<br />
-CLEANSE</span></p></td>
-</tr>
-<tr>
-<td><img src="media/image/poison.png" /></td>
-<td><p><span>Poisoned</span></p>
-<p>Suffers <span>1</span> <span>Fatal Damage</span> at the end of each turn.</p></td>
-<td><p><span>HEAL<br />
-CLEANSE</span></p></td>
-</tr>
-<tr>
-<td><img src="media/image/cursed.png" /></td>
-<td><p><span>Cursed</span></p>
-<p>Rolls of <span>1</span> on any Attack or Block Dice cause <span>1</span> <span>Fatal Damage</span>.</p></td>
-<td><p><span>CLEANSE</span></p></td>
-</tr>
-<tr>
-<td><img src="media/image/head-injury.png" /></td>
-<td><p><span>Head Injury</span></p>
-<p>HTV worsened by <span>1</span>.</p></td>
-<td><p><span>100</span>%<br />
-<span>HEAL</span></p></td>
-</tr>
-<tr>
-<td><img src="media/image/arm-injury.png" /></td>
-<td><p><span>Arm Injury</span></p>
-<p>–<span>1</span> ATK (Fewer attack dice).</p></td>
-<td><p><span>100</span>%<br />
-<span>HEAL</span></p></td>
-</tr>
-<tr>
-<td><img src="media/image/leg-injury.png" /></td>
-<td><p><span>Leg Injury</span></p>
-<p>–<span>1</span> MOV (Reduced movement).</p></td>
-<td><p><span>100</span>%<br />
-<span>HEAL</span></p></td>
-</tr>
-</tbody>
-</table>
+|  | Status | Effect | Removed by |
+|----|----|----|----|
+| <img src="media/image/stunned.png" width="40" /> | **Stunned** | Can only perform RECOVER or PASS. | RECOVER, CLEANSE |
+| <img src="media/image/burning.png" width="40" /> | **Burning** | Suffers 1D3 Fatal Damage at the start of each turn. | RECOVER, CLEANSE |
+| <img src="media/image/frozen.png" width="40" /> | **Frozen** | Movement is reduced by 2″. | RECOVER, CLEANSE |
+| <img src="media/image/fearful.png" width="40" /> | **Fearful** | HTV worsened by 1 for all attacks. | RECOVER, CLEANSE |
+| <img src="media/image/poison.png" width="40" /> | **Poisoned** | Suffers 1 Fatal Damage at the end of each turn. | HEAL, CLEANSE |
+| <img src="media/image/cursed.png" width="40" /> | **Cursed** | Each roll of 1 on an Attack or Block Die causes 1 Fatal Damage. | CLEANSE |
+| <img src="media/image/head-injury.png" width="40" /> | **Head Injury** | HTV worsened by 1. | Healing to full VIT, also by HEAL |
+| <img src="media/image/arm-injury.png" width="40" /> | **Arm Injury** | −1 ATK: fewer Attack Dice. | Healing to full VIT, also by HEAL |
+| <img src="media/image/leg-injury.png" width="40" /> | **Leg Injury** | −1 MOV: shorter moves. | Healing to full VIT, also by HEAL |
+
+Example Burning and a choice of actions
+
+A Goblin (VIT 8) is set Burning by a Fire attack. At the start of the next turn it suffers 1D3 Fatal Damage: \[4\] reads as 2. No Defense roll is allowed. The Goblin is at 6 VIT.
+
+1.  In its activation it uses RECOVER: Burning is removed.
+2.  With its second ACT it may act normally again.
+
+Had it also been Stunned, it could only have used RECOVER or PASS, and one RECOVER removes both statuses.
 
 ## Arcane & Divine Powers
 
-Some models may harness supernatural forces through either Arcane Magic or Divine Invocations. These powers are represented by special actions and are available only to models with the appropriate trait. All supernatural powers require energy to activate: Arcane Energy or Divine Energy.
+**At a glance**
 
-1.  Arcane Magic
+- Arcane models CAST A SPELL, Divine models use INVOCATION. Both cost 1 ACT.
+- Roll 2D6 for energy. You may use one power from your lore that costs that much or less.
+- Arcane only: each 1 rolled deals 2 Fatal Damage to the caster. Divine energy never harms.
 
-Models with the Arcane trait may perform the CAST A SPELL action to generate Arcane Energy and cast a spell from their Warband’s selected Arcane Lore.
+Some models command supernatural forces through Arcane Magic or Divine Invocations. These powers are special actions, available only to models with the matching trait. Every power needs energy: Arcane Energy or Divine Energy.
 
-##### Arcane Energy
+### Arcane Magic
 
-When you cast a spell, roll 2D6 to generate Arcane Energy (AE). You may only cast a spell if its energy cost is equal to or less than the AE rolled.
+Models with the Arcane trait may perform CAST A SPELL to generate Arcane Energy and cast a spell from their warband’s Arcane Lore.
 
-- Each die that shows a result of 1 causes the caster to suffer 2 Fatal Damage.
-- Arcane Energy is temporary and must be used during the action. It cannot be stored or transferred.
-- Spells from Magic Scrolls may be cast without rolling for Arcane Energy.
+1.  Roll 2D6. The total is your Arcane Energy (AE).
+2.  Choose a spell whose cost is equal to or less than the AE.
+3.  Each die that shows 1 deals 2 Fatal Damage to the caster.
 
-1.  Divine Invocations
+- Arcane Energy is spent in the same action. It cannot be stored or passed on.
+- Spells from Magic Scrolls are cast without rolling for Arcane Energy.
 
-Models with the Divine trait may perform the INVOCATION action to call upon a power from a Divine Lore.
+### Divine Invocations
 
-##### Divine Energy
+![](media/image/sp_divine.png)
 
-When performing an Invocation, roll 2D6 to generate Divine Energy (DE). You may only invoke a power if its cost is equal to or less than the DE rolled.
+Models with the Divine trait may perform INVOCATION to call on a power from a Divine Lore.
 
-- Divine Energy is temporary and must be used during the action. It does not cause harm on low rolls and cannot be stored or transferred.
+1.  Roll 2D6. The total is your Divine Energy (DE).
+2.  Choose a power whose cost is equal to or less than the DE.
 
-1.  Arcane & Divine Lores
+Divine Energy is spent in the same action. Low rolls do no harm, and it cannot be stored or passed on.
+
+Example A risky spell
+
+A Hedge Mage with the Arcane trait casts from Lesser Magic. It rolls \[1\] \[5\]: 6 AE.
+
+1.  It may cast any spell with cost 6 or less, for example Fireball (5) or Arcane Barrier (6).
+2.  The \[1\] deals the Hedge Mage 2 Fatal Damage.
+
+Had it rolled two 1s, it would have 2 AE, nothing to cast above that, and 4 Fatal Damage.
+
+### Lores
 
 Each warband may choose one Arcane Lore and one Divine Lore, each only if it fields a model with the matching trait.
 
-- Arcane Lores contain Spells and may only be used by models with the Arcane rule.
-- Divine Lores contain Invocations and may only be used by models with the Divine rule.
+- Arcane Lores contain spells, usable only by models with the Arcane trait.
+- Divine Lores contain invocations, usable only by models with the Divine trait.
 - Each power may be used once per activation.
-- Mixed Warbands (e.g. Mercenaries) may only choose from the following universal Lores.
-- Additional Lores are detailed in the respective Factions Traits.
+- Mixed warbands, such as Mercenaries, may only choose the two universal lores below.
+- Further lores are described with the factions.
 
-1.  <span id="A5_Rules_Doppelseiten-3.xhtml__idTextAnchor008"></span>
+#### Lesser Magic
 
-##### Lesser Magic
+Arcane Lore, available to Arcane models in all warbands.
 
-This Arcane Lore is available to models with the Arcane trait in all Warbands.
-
-| Name | Description | AE |
+| Spell | Effect | AE |
 |----|----|----|
-| Fog of War | Target a friendly model within 12". That model is considered Hidden until the end of its next activation | 3 |
-| Teleport | Move the caster up to 12" in a straight line to a visible position. Ignore terrain and obstacles during this move. If the destination is in Base Contact with an enemy, this counts as a Charge action. | 4 |
-| Fireball | Make a ranged attack (RNG 12", ATK 3, HTV 4+, DMG 3, CRT 4). The attack has the Fire weapon rule. | 5 |
-| Healing Touch | Counts as performing a HEAL action. | 5 |
-| Arcane Barrier | Target a model within 12". That model gains Protected until the end of its next turn (it may retain one defence die as a normal save or block without rolling). | 6 |
-| Fortune’s Thread | Target a model within 24". That model may re-roll one upcoming dice result. The second result must be accepted. | 9 |
+| **Fog of War** | Target a friendly model within 12″. It counts as Hidden until the end of its next activation. | 3 |
+| **Teleport** | Move the caster up to 12″ in a straight line to a visible position, ignoring terrain and obstacles. If it ends in Base Contact with an enemy, this counts as a CHARGE. | 4 |
+| **Fireball** | Make a ranged attack: RNG 12″, ATK 3, HTV 4+, DMG 3, CRT 4, with the Fire weapon rule. | 5 |
+| **Healing Touch** | Counts as performing a HEAL action. | 5 |
+| **Arcane Barrier** | Target a model within 12″. It gains Protected until the end of its next turn: it may keep one defence die as a normal save or block without rolling. | 6 |
+| **Fortune’s Thread** | Target a model within 24″. It may re-roll one upcoming dice result. The second result must be accepted. | 9 |
 
-##### Minor Rites
+#### Minor Rites
 
-This Divine Lore is available to models with the Divine trait in all Warbands.
+Divine Lore, available to Divine models in all warbands.
 
-<table>
-<thead>
-<tr>
-<th scope="col"><p>Name</p></th>
-<th scope="col"><p>Description</p></th>
-<th scope="col"><p>DE</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p><span>Soothing Chant</span></p></td>
-<td><p>Select a friendly model within <span><span>12</span></span><span>″</span>. Remove any of the following status effects:</p>
-<p><span>Burning</span>, <span>Cursed</span>, <span>Poisoned</span>, <span>Fearful</span>, <span>Stunned</span>, <span>Frozen</span>.</p></td>
-<td><p><span><span>3</span></span></p></td>
-</tr>
-<tr>
-<td><p><span>Guiding Steps</span></p></td>
-<td><p>Choose a friendly model within <span>12</span>". That model gains +<span>1</span>" <span>MOV</span> until the end of its next activation.</p></td>
-<td><p><span><span>4</span></span></p></td>
-</tr>
-<tr>
-<td><p><span>Balancing Touch</span></p></td>
-<td><p>Target a friendly model within <span>6</span>". Until the end of the round, it may re<span>-</span>roll one defense die in any defense roll.</p></td>
-<td><p><span><span>6</span></span></p></td>
-</tr>
-<tr>
-<td><p><span>Ritual of Endurance</span></p></td>
-<td><p>Choose a friendly model within <span>6</span>". It heals <span>D</span><span>3</span> Vitality. No additional status effects are removed.</p></td>
-<td><p><span><span>7</span></span></p></td>
-</tr>
-</tbody>
-</table>
+| Invocation | Effect | DE |
+|----|----|----|
+| **Soothing Chant** | Select a friendly model within 12″. Remove any of these status effects: Burning, Cursed, Poisoned, Fearful, Stunned, Frozen. | 3 |
+| **Guiding Steps** | Choose a friendly model within 12″. It gains +1″ MOV until the end of its next activation. | 4 |
+| **Balancing Touch** | Target a friendly model within 6″. Until the end of the round it may re-roll one defense die in any defense roll. | 6 |
+| **Ritual of Endurance** | Choose a friendly model within 6″. It heals D3 Vitality. No status effects are removed. | 7 |
 
-<span id="A5_Rules_Doppelseiten-4.xhtml"></span>
+Example A safe prayer
+
+A Priest with the Divine trait uses INVOCATION and rolls \[1\] \[2\]: 3 DE, and no harm from the 1. Enough for Soothing Chant: a Fearful friendly Swordsman 10″ away is freed of the status.
